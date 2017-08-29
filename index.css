@@ -432,33 +432,6 @@ template {
 */
 .slider {}
 
-.frame {
-   /**
-    * (optional) wrapper width, specifies width of the slider frame.
-    */
-   width: 880px;
-
-   position: relative;
-   font-size: 0;
-   line-height: 0;
-   overflow: hidden;
-   white-space: nowrap;
-}
-
-.slides {
-   display: inline-block;
-}
-
-li {
-   position: relative;
-   display: inline-block;
-
-   /**
-    * (optional) if the content inside the slide element has a defined size.
-    */
-   width: 880px;
-}
-
 .prev, .next {
    position: absolute;
    top: 50%;
@@ -478,14 +451,90 @@ li {
 .next svg, .prev svg {
    width: 25px;
 }
+ul,li {
+    margin: 0;
+    padding: 0;
+}
+body {
+    position: relative;
+}
 
+.fix_img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 200px;
+}
+.fix_img_01{
+    top: 0;
+    background: url(images/final-img_01.jpg) no-repeat top center;
+}
+.fix_img_02{
+    top: 200px;
+    background: url(images/final-img_02.jpg) no-repeat top center;
+}
+.fix_img_03{
+    top: 400px;
+    background: url(images/final-img_03.jpg) no-repeat top center;
+}
+.fix_img_04{
+    top: 600px;
+    background: url(images/final-img_04.jpg) no-repeat top center;
+}
+.fix_img_05{
+    top: 800px;
+    background: url(images/final-img_05.jpg) no-repeat top center;
+    height: 190px;
+}
 
-
-
-
-
-
-
+.nav {
+    padding-top: 990px;
+    text-align: center;
+    height: 52px;
+    position: relative;
+    z-index: 7;
+}
+.nav ul {
+    font-size: 0;
+}
+.nav ul li {
+    display: inline-block;
+    border-bottom: 2px solid transparent;
+    margin-left: 5px;
+    height: 52px;
+    line-height: 52px;
+    background: #858585;
+    color: #fff;
+    font-size: 16px;
+}
+.nav ul li a{
+    display: block;
+    padding: 0 40px;
+    color: #fff;
+    text-decoration: none;
+}
+.nav ul li a:hover{
+}
+.nav ul li.active{
+    display: inline-block;
+    border-bottom: 2px solid #858585;
+    margin-left: 0;
+    background: #d32a2d;
+}
+.partarea {
+    width: 954px;
+    margin: 0 auto;
+    text-align: center;
+}
+.partarea .showgroup {
+    font-size: 0;
+}
+.part0{
+    margin-top: -50px;
+    position: relative;
+    z-index: 3
+}
 
 
 
