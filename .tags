@@ -68,12 +68,12 @@ img	/web/my/projectA/index.html	/^            <img src="images\/final-img_12.jpg
 img	/web/my/projectA/index.html	/^            <img src="images\/final-img_13.jpg" alt="">$/;"	function	line:36
 div	/web/my/projectA/index.html	/^        <div class="siders">$/;"	function	line:38
 ul	/web/my/projectA/index.html	/^            <ul class="bxslider">$/;"	function	line:39
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_15.jpg" alt=""><\/a><\/li>$/;"	function	line:40
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_17.jpg" alt=""><\/a><\/li>$/;"	function	line:41
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_19.jpg" alt=""><\/a><\/li>$/;"	function	line:42
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_21.jpg" alt=""><\/a><\/li>$/;"	function	line:43
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_23.jpg" alt=""><\/a><\/li>$/;"	function	line:44
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_25.jpg" alt=""><\/a><\/li>$/;"	function	line:45
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/14389175474.html#crumb-wrap"><img src="images\/final-img_15.jpg" alt=""><\/a><\/li>$/;"	function	line:40
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/14505321064.html"><img src="images\/final-img_17.jpg" alt=""><\/a><\/li>$/;"	function	line:41
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/14111825118.html#crumb-wrap"><img src="images\/final-img_19.jpg" alt=""><\/a><\/li>$/;"	function	line:42
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/11268091554.html"><img src="images\/final-img_21.jpg" alt=""><\/a><\/li>$/;"	function	line:43
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/12050382569.html"><img src="images\/final-img_23.jpg" alt=""><\/a><\/li>$/;"	function	line:44
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/11859228285.html"><img src="images\/final-img_25.jpg" alt=""><\/a><\/li>$/;"	function	line:45
 div	/web/my/projectA/index.html	/^    <div class="partarea part1" id="area1">$/;"	function	line:49
 div	/web/my/projectA/index.html	/^        <div class="showgroup">$/;"	function	line:50
 img	/web/my/projectA/index.html	/^            <img src="images\/final-img_33.jpg" alt="">$/;"	function	line:51
@@ -84,84 +84,83 @@ img	/web/my/projectA/index.html	/^            <img src="images\/final-img_38.jpg
 img	/web/my/projectA/index.html	/^            <img src="images\/final-img_39.jpg" alt="">$/;"	function	line:56
 div	/web/my/projectA/index.html	/^        <div class="siders">$/;"	function	line:58
 ul	/web/my/projectA/index.html	/^            <ul class="bxslider">$/;"	function	line:59
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_42.jpg" alt=""><\/a><\/li>$/;"	function	line:60
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_44.jpg" alt=""><\/a><\/li>$/;"	function	line:61
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_46.jpg" alt=""><\/a><\/li>$/;"	function	line:62
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_47.jpg" alt=""><\/a><\/li>$/;"	function	line:63
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_48.jpg" alt=""><\/a><\/li>$/;"	function	line:64
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_51.jpg" alt=""><\/a><\/li>$/;"	function	line:65
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/13732493040.html"><img src="images\/final-img_42.jpg" alt=""><\/a><\/li>$/;"	function	line:60
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/4949690.html"><img src="images\/final-img_44.jpg" alt=""><\/a><\/li>$/;"	function	line:61
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.hk\/4033263.html"><img src="images\/final-img_46.jpg" alt=""><\/a><\/li>$/;"	function	line:62
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/13649377605.html#none"><img src="images\/final-img_47.jpg" alt=""><\/a><\/li>$/;"	function	line:63
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/10138682987.html"><img src="images\/final-img_48.jpg" alt=""><\/a><\/li>$/;"	function	line:64
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/13937345926.html#crumb-wrap"><img src="images\/final-img_51.jpg" alt=""><\/a><\/li>$/;"	function	line:65
 div	/web/my/projectA/index.html	/^    <div class="partarea part2" id="area2">$/;"	function	line:69
 div	/web/my/projectA/index.html	/^        <div class="showgroup">$/;"	function	line:70
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_57.jpg" alt="">$/;"	function	line:71
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_58.jpg" alt="">$/;"	function	line:72
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_59.jpg" alt="">$/;"	function	line:73
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_60.jpg" alt="">$/;"	function	line:74
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_61.jpg" alt="">$/;"	function	line:75
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_62.jpg" alt="">$/;"	function	line:76
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_63.jpg" alt="">$/;"	function	line:77
-div	/web/my/projectA/index.html	/^        <div class="siders">$/;"	function	line:79
-ul	/web/my/projectA/index.html	/^            <ul class="bxslider">$/;"	function	line:80
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_64.jpg" alt=""><\/a><\/li>$/;"	function	line:81
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_66.jpg" alt=""><\/a><\/li>$/;"	function	line:82
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_67.jpg" alt=""><\/a><\/li>$/;"	function	line:83
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_68.jpg" alt=""><\/a><\/li>$/;"	function	line:84
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_70.jpg" alt=""><\/a><\/li>$/;"	function	line:85
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_72.jpg" alt=""><\/a><\/li>$/;"	function	line:86
-ul	/web/my/projectA/index.html	/^            <ul>$/;"	function	line:87
-div	/web/my/projectA/index.html	/^    <div class="partarea part3" id="area3">$/;"	function	line:90
-div	/web/my/projectA/index.html	/^        <div class="showgroup">$/;"	function	line:91
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_79.jpg" alt="">$/;"	function	line:92
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_80.jpg" alt="">$/;"	function	line:93
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_81.jpg" alt="">$/;"	function	line:94
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_82.jpg" alt="">$/;"	function	line:95
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_83.jpg" alt="">$/;"	function	line:96
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_84.jpg" alt="">$/;"	function	line:97
-div	/web/my/projectA/index.html	/^        <div class="siders">$/;"	function	line:99
-ul	/web/my/projectA/index.html	/^            <ul class="bxslider">$/;"	function	line:100
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_86.jpg" alt=""><\/a><\/li>$/;"	function	line:101
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_88.jpg" alt=""><\/a><\/li>$/;"	function	line:102
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_90.jpg" alt=""><\/a><\/li>$/;"	function	line:103
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_92.jpg" alt=""><\/a><\/li>$/;"	function	line:104
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_94.jpg" alt=""><\/a><\/li>$/;"	function	line:105
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_96.jpg" alt=""><\/a><\/li>$/;"	function	line:106
-div	/web/my/projectA/index.html	/^    <div class="partarea part4" id="area4">$/;"	function	line:110
-div	/web/my/projectA/index.html	/^        <div class="showgroup">$/;"	function	line:111
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_103.jpg" alt="">$/;"	function	line:112
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_104.jpg" alt="">$/;"	function	line:113
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_105.jpg" alt="">$/;"	function	line:114
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_106.jpg" alt="">$/;"	function	line:115
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_107.jpg" alt="">$/;"	function	line:116
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_108.jpg" alt="">$/;"	function	line:117
-div	/web/my/projectA/index.html	/^        <div class="siders">$/;"	function	line:119
-ul	/web/my/projectA/index.html	/^            <ul class="bxslider">$/;"	function	line:120
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_110.jpg" alt=""><\/a><\/li>$/;"	function	line:121
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_112.jpg" alt=""><\/a><\/li>$/;"	function	line:122
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_114.jpg" alt=""><\/a><\/li>$/;"	function	line:123
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_116.jpg" alt=""><\/a><\/li>$/;"	function	line:124
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_118.jpg" alt=""><\/a><\/li>$/;"	function	line:125
-li	/web/my/projectA/index.html	/^                <li><a href="#"><img src="images\/final-img_120.jpg" alt=""><\/a><\/li>$/;"	function	line:126
-ul	/web/my/projectA/index.html	/^            <ul>$/;"	function	line:127
-div	/web/my/projectA/index.html	/^    <div class="partarea part5" id="area5">$/;"	function	line:130
-div	/web/my/projectA/index.html	/^        <div class="showgroup">$/;"	function	line:131
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_129.jpg" alt="">$/;"	function	line:132
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_131.jpg" alt="">$/;"	function	line:133
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_132.jpg" alt="">$/;"	function	line:134
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_133.jpg" alt="">$/;"	function	line:135
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_134.jpg" alt="">$/;"	function	line:136
-img	/web/my/projectA/index.html	/^            <img src="images\/final-img_135.jpg" alt="">$/;"	function	line:137
-div	/web/my/projectA/index.html	/^        <div class="siders">$/;"	function	line:139
-ul	/web/my/projectA/index.html	/^            <ul class="bxslider">$/;"	function	line:140
-li	/web/my/projectA/index.html	/^             <li><a href="#"><img src="images\/final-img_137.jpg" alt=""><\/a><\/li>$/;"	function	line:141
-li	/web/my/projectA/index.html	/^             <li><a href="#"><img src="images\/final-img_139.jpg" alt=""><\/a><\/li>$/;"	function	line:142
-li	/web/my/projectA/index.html	/^             <li><a href="#"><img src="images\/final-img_141.jpg" alt=""><\/a><\/li>$/;"	function	line:143
-li	/web/my/projectA/index.html	/^             <li><a href="#"><img src="images\/final-img_143.jpg" alt=""><\/a><\/li>$/;"	function	line:144
-li	/web/my/projectA/index.html	/^             <li><a href="#"><img src="images\/final-img_144.jpg" alt=""><\/a><\/li>$/;"	function	line:145
-li	/web/my/projectA/index.html	/^             <li><a href="#"><img src="images\/final-img_146.jpg" alt=""><\/a><\/li>$/;"	function	line:146
-ul	/web/my/projectA/index.html	/^            <ul>$/;"	function	line:147
-div	/web/my/projectA/index.html	/^    <div class="fix_width">$/;"	function	line:152
-div	/web/my/projectA/index.html	/^      <div class="top"><\/div>$/;"	function	line:153
-script	/web/my/projectA/index.html	/^    <script src="https:\/\/cdn.bootcss.com\/bxslider\/4.2.12\/jquery.bxslider.min.js"><\/script>$/;"	function	line:155
-script	/web/my/projectA/index.html	/^    <script src='js\/index.js'><\/script>$/;"	function	line:156
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_58.jpg" alt="">$/;"	function	line:71
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_59.jpg" alt="">$/;"	function	line:72
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_60.jpg" alt="">$/;"	function	line:73
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_61.jpg" alt="">$/;"	function	line:74
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_62.jpg" alt="">$/;"	function	line:75
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_63.jpg" alt="">$/;"	function	line:76
+div	/web/my/projectA/index.html	/^        <div class="siders">$/;"	function	line:78
+ul	/web/my/projectA/index.html	/^            <ul class="bxslider">$/;"	function	line:79
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/4481214.html"><img src="images\/final-img_64.jpg" alt=""><\/a><\/li>$/;"	function	line:80
+li	/web/my/projectA/index.html	/^                <li><a href="http:\/\/item.jd.com\/15104185470.html"><img src="images\/final-img_66.jpg" alt=""><\/a><\/li>$/;"	function	line:81
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/12442780200.html"><img src="images\/final-img_67.jpg" alt=""><\/a><\/li>$/;"	function	line:82
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/11391521574.html"><img src="images\/final-img_68.jpg" alt=""><\/a><\/li>$/;"	function	line:83
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.hk\/1992837534.html"><img src="images\/final-img_70.jpg" alt=""><\/a><\/li>$/;"	function	line:84
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/13186813836.html"><img src="images\/final-img_72.jpg" alt=""><\/a><\/li>$/;"	function	line:85
+ul	/web/my/projectA/index.html	/^            <ul>$/;"	function	line:86
+div	/web/my/projectA/index.html	/^    <div class="partarea part3" id="area3">$/;"	function	line:89
+div	/web/my/projectA/index.html	/^        <div class="showgroup">$/;"	function	line:90
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_79.jpg" alt="">$/;"	function	line:91
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_80.jpg" alt="">$/;"	function	line:92
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_81.jpg" alt="">$/;"	function	line:93
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_82.jpg" alt="">$/;"	function	line:94
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_83.jpg" alt="">$/;"	function	line:95
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_84.jpg" alt="">$/;"	function	line:96
+div	/web/my/projectA/index.html	/^        <div class="siders">$/;"	function	line:98
+ul	/web/my/projectA/index.html	/^            <ul class="bxslider">$/;"	function	line:99
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/4694443.html"><img src="images\/final-img_86.jpg" alt=""><\/a><\/li>$/;"	function	line:100
+li	/web/my/projectA/index.html	/^                <li><a href="http:\/\/item.jd.com\/3675378.html"><img src="images\/final-img_88.jpg" alt=""><\/a><\/li>$/;"	function	line:101
+li	/web/my/projectA/index.html	/^                <li><a href="http:\/\/item.jd.com\/15573462723.html"><img src="images\/final-img_90.jpg" alt=""><\/a><\/li>$/;"	function	line:102
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/5343172.html"><img src="images\/final-img_92.jpg" alt=""><\/a><\/li>$/;"	function	line:103
+li	/web/my/projectA/index.html	/^                <li><a href="http:\/\/item.jd.com\/13971282295.html"><img src="images\/final-img_94.jpg" alt=""><\/a><\/li>$/;"	function	line:104
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/13966272963.html"><img src="images\/final-img_96.jpg" alt=""><\/a><\/li>$/;"	function	line:105
+div	/web/my/projectA/index.html	/^    <div class="partarea part4" id="area4">$/;"	function	line:109
+div	/web/my/projectA/index.html	/^        <div class="showgroup">$/;"	function	line:110
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_103.jpg" alt="">$/;"	function	line:111
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_104.jpg" alt="">$/;"	function	line:112
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_105.jpg" alt="">$/;"	function	line:113
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_106.jpg" alt="">$/;"	function	line:114
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_107.jpg" alt="">$/;"	function	line:115
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_108.jpg" alt="">$/;"	function	line:116
+div	/web/my/projectA/index.html	/^        <div class="siders">$/;"	function	line:118
+ul	/web/my/projectA/index.html	/^            <ul class="bxslider">$/;"	function	line:119
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/11304462970.html"><img src="images\/final-img_110.jpg" alt=""><\/a><\/li>$/;"	function	line:120
+li	/web/my/projectA/index.html	/^                <li><a href="http:\/\/item.jd.com\/10552015675.html"><img src="images\/final-img_112.jpg" alt=""><\/a><\/li>$/;"	function	line:121
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/13349223808.html#crumb-wrap"><img src="images\/final-img_114.jpg" alt=""><\/a><\/li>$/;"	function	line:122
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/15263857624.html"><img src="images\/final-img_116.jpg" alt=""><\/a><\/li>$/;"	function	line:123
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/4729891.html"><img src="images\/final-img_118.jpg" alt=""><\/a><\/li>$/;"	function	line:124
+li	/web/my/projectA/index.html	/^                <li><a href="https:\/\/item.jd.com\/14709639589.html"><img src="images\/final-img_120.jpg" alt=""><\/a><\/li>$/;"	function	line:125
+ul	/web/my/projectA/index.html	/^            <ul>$/;"	function	line:126
+div	/web/my/projectA/index.html	/^    <div class="partarea part5" id="area5">$/;"	function	line:129
+div	/web/my/projectA/index.html	/^        <div class="showgroup">$/;"	function	line:130
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_129.jpg" alt="">$/;"	function	line:131
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_131.jpg" alt="">$/;"	function	line:132
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_132.jpg" alt="">$/;"	function	line:133
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_133.jpg" alt="">$/;"	function	line:134
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_134.jpg" alt="">$/;"	function	line:135
+img	/web/my/projectA/index.html	/^            <img src="images\/final-img_135.jpg" alt="">$/;"	function	line:136
+div	/web/my/projectA/index.html	/^        <div class="siders">$/;"	function	line:138
+ul	/web/my/projectA/index.html	/^            <ul class="bxslider">$/;"	function	line:139
+li	/web/my/projectA/index.html	/^             <li><a href="http:\/\/item.jd.com\/13861800086.html"><img src="images\/final-img_137.jpg" alt=""><\/a><\/li>$/;"	function	line:140
+li	/web/my/projectA/index.html	/^             <li><a href="https:\/\/item.jd.com\/13042832486.html#crumb-wrap"><img src="images\/final-img_139.jpg" alt=""><\/a><\/li>$/;"	function	line:141
+li	/web/my/projectA/index.html	/^             <li><a href="https:\/\/item.jd.com\/5054358.html"><img src="images\/final-img_141.jpg" alt=""><\/a><\/li>$/;"	function	line:142
+li	/web/my/projectA/index.html	/^             <li><a href="https:\/\/item.jd.com\/14678930153.html"><img src="images\/final-img_143.jpg" alt=""><\/a><\/li>$/;"	function	line:143
+li	/web/my/projectA/index.html	/^             <li><a href="https:\/\/item.jd.com\/4189290.html"><img src="images\/final-img_144.jpg" alt=""><\/a><\/li>$/;"	function	line:144
+li	/web/my/projectA/index.html	/^             <li><a href="https:\/\/item.jd.com\/12084734895.html"><img src="images\/final-img_146.jpg" alt=""><\/a><\/li>$/;"	function	line:145
+ul	/web/my/projectA/index.html	/^            <ul>$/;"	function	line:146
+div	/web/my/projectA/index.html	/^    <div class="fix_width">$/;"	function	line:151
+div	/web/my/projectA/index.html	/^      <div class="top"><img src="images\/top.png" alt=""><\/div>$/;"	function	line:152
+script	/web/my/projectA/index.html	/^    <script src="https:\/\/cdn.bootcss.com\/bxslider\/4.2.12\/jquery.bxslider.min.js"><\/script>$/;"	function	line:154
+script	/web/my/projectA/index.html	/^    <script src='js\/index.js'><\/script>$/;"	function	line:155
 html	/web/my/projectA/index.css	/^html {$/;"	function	line:12
 article	/web/my/projectA/index.css	/^article,$/;"	function	line:25
 aside	/web/my/projectA/index.css	/^aside,$/;"	function	line:26
@@ -240,32 +239,33 @@ template	/web/my/projectA/index.css	/^template {$/;"	function	line:414
 .next svg, .prev svg	/web/my/projectA/index.css	/^.next svg, .prev svg {$/;"	function	line:451
 ul,li	/web/my/projectA/index.css	/^ul,li {$/;"	function	line:454
 body	/web/my/projectA/index.css	/^body {$/;"	function	line:458
-.fix_img	/web/my/projectA/index.css	/^.fix_img {$/;"	function	line:462
-.fix_img_01	/web/my/projectA/index.css	/^.fix_img_01{$/;"	function	line:469
-.fix_img_02	/web/my/projectA/index.css	/^.fix_img_02{$/;"	function	line:473
-.fix_img_03	/web/my/projectA/index.css	/^.fix_img_03{$/;"	function	line:477
-.fix_img_04	/web/my/projectA/index.css	/^.fix_img_04{$/;"	function	line:481
-.fix_img_05	/web/my/projectA/index.css	/^.fix_img_05{$/;"	function	line:485
-.nav	/web/my/projectA/index.css	/^.nav {$/;"	function	line:491
-.nav ul	/web/my/projectA/index.css	/^.nav ul {$/;"	function	line:498
-.nav ul li	/web/my/projectA/index.css	/^.nav ul li {$/;"	function	line:501
-.nav ul li a	/web/my/projectA/index.css	/^.nav ul li a{$/;"	function	line:511
-.nav ul li a:hover	/web/my/projectA/index.css	/^.nav ul li a:hover{$/;"	function	line:517
-.nav ul li.active	/web/my/projectA/index.css	/^.nav ul li.active{$/;"	function	line:519
-.partarea	/web/my/projectA/index.css	/^.partarea {$/;"	function	line:525
-.partarea .showgroup	/web/my/projectA/index.css	/^.partarea .showgroup {$/;"	function	line:530
-.part0	/web/my/projectA/index.css	/^.part0{$/;"	function	line:533
-.fix_width	/web/my/projectA/index.css	/^.fix_width {$/;"	function	line:539
-.fix_width .top	/web/my/projectA/index.css	/^.fix_width .top {$/;"	function	line:543
-.fix_img,.nav,.partarea	/web/my/projectA/index.css	/^.fix_img,.nav,.partarea{$/;"	function	line:551
-.siders,.bx-wrapper	/web/my/projectA/index.css	/^.siders,.bx-wrapper {$/;"	function	line:554
-.siders li img	/web/my/projectA/index.css	/^.siders li img {$/;"	function	line:557
-.bx-wrapper	/web/my/projectA/index.css	/^.bx-wrapper {$/;"	function	line:562
-.bx-wrapper img	/web/my/projectA/index.css	/^.bx-wrapper img{$/;"	function	line:568
-ul.bxslider	/web/my/projectA/index.css	/^ul.bxslider{$/;"	function	line:571
-.part0	/web/my/projectA/index.css	/^.part0 {$/;"	function	line:575
-.part1	/web/my/projectA/index.css	/^.part1 {$/;"	function	line:578
-.part2	/web/my/projectA/index.css	/^.part2 {$/;"	function	line:581
-.part3	/web/my/projectA/index.css	/^.part3 {$/;"	function	line:584
-.part4	/web/my/projectA/index.css	/^.part4 {$/;"	function	line:587
-.part5	/web/my/projectA/index.css	/^.part5 {$/;"	function	line:590
+.fix_img	/web/my/projectA/index.css	/^.fix_img {$/;"	function	line:463
+.fix_img_01	/web/my/projectA/index.css	/^.fix_img_01{$/;"	function	line:470
+.fix_img_02	/web/my/projectA/index.css	/^.fix_img_02{$/;"	function	line:474
+.fix_img_03	/web/my/projectA/index.css	/^.fix_img_03{$/;"	function	line:478
+.fix_img_04	/web/my/projectA/index.css	/^.fix_img_04{$/;"	function	line:482
+.fix_img_05	/web/my/projectA/index.css	/^.fix_img_05{$/;"	function	line:486
+.nav	/web/my/projectA/index.css	/^.nav {$/;"	function	line:492
+.nav ul	/web/my/projectA/index.css	/^.nav ul {$/;"	function	line:499
+.nav ul li	/web/my/projectA/index.css	/^.nav ul li {$/;"	function	line:502
+.nav ul li a	/web/my/projectA/index.css	/^.nav ul li a{$/;"	function	line:512
+.nav ul li a:hover	/web/my/projectA/index.css	/^.nav ul li a:hover{$/;"	function	line:518
+.nav ul li.active	/web/my/projectA/index.css	/^.nav ul li.active{$/;"	function	line:520
+.partarea	/web/my/projectA/index.css	/^.partarea {$/;"	function	line:526
+.partarea .showgroup	/web/my/projectA/index.css	/^.partarea .showgroup {$/;"	function	line:531
+.part0	/web/my/projectA/index.css	/^.part0{$/;"	function	line:534
+.fix_width	/web/my/projectA/index.css	/^.fix_width {$/;"	function	line:540
+.fix_width .top	/web/my/projectA/index.css	/^.fix_width .top {$/;"	function	line:544
+.fix_img,.nav,.partarea	/web/my/projectA/index.css	/^.fix_img,.nav,.partarea{$/;"	function	line:552
+.siders,.bx-wrapper	/web/my/projectA/index.css	/^.siders,.bx-wrapper {$/;"	function	line:555
+.siders li img	/web/my/projectA/index.css	/^.siders li img {$/;"	function	line:558
+.bx-wrapper	/web/my/projectA/index.css	/^.bx-wrapper {$/;"	function	line:563
+.bx-wrapper img	/web/my/projectA/index.css	/^.bx-wrapper img{$/;"	function	line:569
+ul.bxslider	/web/my/projectA/index.css	/^ul.bxslider{$/;"	function	line:572
+ul.bxslider li:hover	/web/my/projectA/index.css	/^ul.bxslider li:hover {$/;"	function	line:576
+.part0	/web/my/projectA/index.css	/^.part0 {$/;"	function	line:580
+.part1	/web/my/projectA/index.css	/^.part1 {$/;"	function	line:583
+.part2	/web/my/projectA/index.css	/^.part2 {$/;"	function	line:586
+.part3	/web/my/projectA/index.css	/^.part3 {$/;"	function	line:589
+.part4	/web/my/projectA/index.css	/^.part4 {$/;"	function	line:592
+.part5	/web/my/projectA/index.css	/^.part5 {$/;"	function	line:595

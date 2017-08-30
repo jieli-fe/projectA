@@ -457,6 +457,7 @@ ul,li {
 }
 body {
     position: relative;
+    text-align: center;
 }
 
 .fix_img {
@@ -542,8 +543,8 @@ body {
 }
 .fix_width .top {
   position: fixed;
-  width: 100px;
-  height: 100px;
+  width: 45px;
+  height: 50px;
   bottom: 40px;
   z-index: 9;
 }
@@ -571,6 +572,10 @@ body {
 ul.bxslider{
     height: 250px;
     overflow: hidden;
+}
+ul.bxslider li:hover {
+    transform: scale(.9);
+    transition: all .3s ease-in;
 }
 .part0 {
     background: #fdd6d7;

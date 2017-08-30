@@ -10,7 +10,15 @@ $('.bxslider').bxSlider({
     infiniteLoop: false 
 });
 
+  var pos_right ;
+  if(($(window).width() - 954)>0){
+      pos_right = ($(window).width()-954)/2 - 45 ;
+  }else {
+      pos_right = 0;
+  }
+  $(".top").css("right",pos_right);
   $(window).scroll(function() {
+      
         var t = $(this).scrollTop();
         if (t > 300) {
             $(".top").stop().fadeIn(300);
