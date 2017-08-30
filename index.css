@@ -537,7 +537,6 @@ body {
 }
 
 
-
-
-
-
+.fix_img,.nav,.partarea{
+  /*display: none*/
+}

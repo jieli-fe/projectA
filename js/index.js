@@ -1,3 +1,3 @@
-window.onload = function () {
-    // alert(11)
-}
+$(document).ready(function(){
+  $('.bxslider').bxSlider();
+});
