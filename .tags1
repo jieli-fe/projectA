@@ -1,0 +1,113 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+html	/web/my/projectA/index.css	/^html {$/;"	function	line:12
+article	/web/my/projectA/index.css	/^article,$/;"	function	line:25
+aside	/web/my/projectA/index.css	/^aside,$/;"	function	line:26
+footer	/web/my/projectA/index.css	/^footer,$/;"	function	line:27
+header	/web/my/projectA/index.css	/^header,$/;"	function	line:28
+nav	/web/my/projectA/index.css	/^nav,$/;"	function	line:29
+section	/web/my/projectA/index.css	/^section {$/;"	function	line:30
+h1	/web/my/projectA/index.css	/^h1 {$/;"	function	line:39
+figcaption	/web/my/projectA/index.css	/^figcaption,$/;"	function	line:52
+figure	/web/my/projectA/index.css	/^figure,$/;"	function	line:53
+main	/web/my/projectA/index.css	/^main { \/* 1 *\/$/;"	function	line:54
+figure	/web/my/projectA/index.css	/^figure {$/;"	function	line:62
+hr	/web/my/projectA/index.css	/^hr {$/;"	function	line:71
+pre	/web/my/projectA/index.css	/^pre {$/;"	function	line:82
+a	/web/my/projectA/index.css	/^a {$/;"	function	line:95
+abbr[title]	/web/my/projectA/index.css	/^abbr[title] {$/;"	function	line:105
+b	/web/my/projectA/index.css	/^b,$/;"	function	line:115
+strong	/web/my/projectA/index.css	/^strong {$/;"	function	line:116
+b	/web/my/projectA/index.css	/^b,$/;"	function	line:124
+strong	/web/my/projectA/index.css	/^strong {$/;"	function	line:125
+code	/web/my/projectA/index.css	/^code,$/;"	function	line:134
+kbd	/web/my/projectA/index.css	/^kbd,$/;"	function	line:135
+samp	/web/my/projectA/index.css	/^samp {$/;"	function	line:136
+dfn	/web/my/projectA/index.css	/^dfn {$/;"	function	line:145
+mark	/web/my/projectA/index.css	/^mark {$/;"	function	line:153
+small	/web/my/projectA/index.css	/^small {$/;"	function	line:162
+sub	/web/my/projectA/index.css	/^sub,$/;"	function	line:171
+sup	/web/my/projectA/index.css	/^sup {$/;"	function	line:172
+sub	/web/my/projectA/index.css	/^sub {$/;"	function	line:179
+sup	/web/my/projectA/index.css	/^sup {$/;"	function	line:183
+audio	/web/my/projectA/index.css	/^audio,$/;"	function	line:194
+video	/web/my/projectA/index.css	/^video {$/;"	function	line:195
+audio:not([controls])	/web/my/projectA/index.css	/^audio:not([controls]) {$/;"	function	line:203
+img	/web/my/projectA/index.css	/^img {$/;"	function	line:212
+svg:not(:root)	/web/my/projectA/index.css	/^svg:not(:root) {$/;"	function	line:220
+button	/web/my/projectA/index.css	/^button,$/;"	function	line:231
+input	/web/my/projectA/index.css	/^input,$/;"	function	line:232
+optgroup	/web/my/projectA/index.css	/^optgroup,$/;"	function	line:233
+select	/web/my/projectA/index.css	/^select,$/;"	function	line:234
+textarea	/web/my/projectA/index.css	/^textarea {$/;"	function	line:235
+button	/web/my/projectA/index.css	/^button,$/;"	function	line:244
+input	/web/my/projectA/index.css	/^input { \/* 1 *\/$/;"	function	line:245
+button	/web/my/projectA/index.css	/^button,$/;"	function	line:254
+select	/web/my/projectA/index.css	/^select { \/* 1 *\/$/;"	function	line:255
+button	/web/my/projectA/index.css	/^button,$/;"	function	line:265
+[type="reset"]	/web/my/projectA/index.css	/^[type="reset"],$/;"	function	line:267
+[type="submit"]	/web/my/projectA/index.css	/^[type="submit"] {$/;"	function	line:268
+button::-moz-focus-inner	/web/my/projectA/index.css	/^button::-moz-focus-inner,$/;"	function	line:276
+[type="button"]::-moz-focus-inner	/web/my/projectA/index.css	/^[type="button"]::-moz-focus-inner,$/;"	function	line:277
+[type="reset"]::-moz-focus-inner	/web/my/projectA/index.css	/^[type="reset"]::-moz-focus-inner,$/;"	function	line:278
+[type="submit"]::-moz-focus-inner	/web/my/projectA/index.css	/^[type="submit"]::-moz-focus-inner {$/;"	function	line:279
+button:-moz-focusring	/web/my/projectA/index.css	/^button:-moz-focusring,$/;"	function	line:288
+[type="button"]:-moz-focusring	/web/my/projectA/index.css	/^[type="button"]:-moz-focusring,$/;"	function	line:289
+[type="reset"]:-moz-focusring	/web/my/projectA/index.css	/^[type="reset"]:-moz-focusring,$/;"	function	line:290
+[type="submit"]:-moz-focusring	/web/my/projectA/index.css	/^[type="submit"]:-moz-focusring {$/;"	function	line:291
+legend	/web/my/projectA/index.css	/^legend {$/;"	function	line:302
+progress	/web/my/projectA/index.css	/^progress {$/;"	function	line:316
+textarea	/web/my/projectA/index.css	/^textarea {$/;"	function	line:325
+[type="checkbox"]	/web/my/projectA/index.css	/^[type="checkbox"],$/;"	function	line:334
+[type="radio"]	/web/my/projectA/index.css	/^[type="radio"] {$/;"	function	line:335
+[type="number"]::-webkit-inner-spin-button	/web/my/projectA/index.css	/^[type="number"]::-webkit-inner-spin-button,$/;"	function	line:344
+[type="number"]::-webkit-outer-spin-button	/web/my/projectA/index.css	/^[type="number"]::-webkit-outer-spin-button {$/;"	function	line:345
+[type="search"]	/web/my/projectA/index.css	/^[type="search"] {$/;"	function	line:354
+[type="search"]::-webkit-search-cancel-button	/web/my/projectA/index.css	/^[type="search"]::-webkit-search-cancel-button,$/;"	function	line:363
+[type="search"]::-webkit-search-decoration	/web/my/projectA/index.css	/^[type="search"]::-webkit-search-decoration {$/;"	function	line:364
+::-webkit-file-upload-button	/web/my/projectA/index.css	/^::-webkit-file-upload-button {$/;"	function	line:373
+menu	/web/my/projectA/index.css	/^menu {$/;"	function	line:387
+summary	/web/my/projectA/index.css	/^summary {$/;"	function	line:395
+canvas	/web/my/projectA/index.css	/^canvas {$/;"	function	line:406
+template	/web/my/projectA/index.css	/^template {$/;"	function	line:414
+[hidden]	/web/my/projectA/index.css	/^[hidden] {$/;"	function	line:425
+.slider	/web/my/projectA/index.css	/^.slider {}$/;"	function	line:433
+.prev, .next	/web/my/projectA/index.css	/^.prev, .next {$/;"	function	line:435
+.next	/web/my/projectA/index.css	/^.next {$/;"	function	line:443
+.prev	/web/my/projectA/index.css	/^.prev {$/;"	function	line:447
+.next svg, .prev svg	/web/my/projectA/index.css	/^.next svg, .prev svg {$/;"	function	line:451
+ul,li	/web/my/projectA/index.css	/^ul,li {$/;"	function	line:454
+body	/web/my/projectA/index.css	/^body {$/;"	function	line:458
+.fix_img	/web/my/projectA/index.css	/^.fix_img {$/;"	function	line:462
+.fix_img_01	/web/my/projectA/index.css	/^.fix_img_01{$/;"	function	line:469
+.fix_img_02	/web/my/projectA/index.css	/^.fix_img_02{$/;"	function	line:473
+.fix_img_03	/web/my/projectA/index.css	/^.fix_img_03{$/;"	function	line:477
+.fix_img_04	/web/my/projectA/index.css	/^.fix_img_04{$/;"	function	line:481
+.fix_img_05	/web/my/projectA/index.css	/^.fix_img_05{$/;"	function	line:485
+.nav	/web/my/projectA/index.css	/^.nav {$/;"	function	line:491
+.nav ul	/web/my/projectA/index.css	/^.nav ul {$/;"	function	line:498
+.nav ul li	/web/my/projectA/index.css	/^.nav ul li {$/;"	function	line:501
+.nav ul li a	/web/my/projectA/index.css	/^.nav ul li a{$/;"	function	line:511
+.nav ul li a:hover	/web/my/projectA/index.css	/^.nav ul li a:hover{$/;"	function	line:517
+.nav ul li.active	/web/my/projectA/index.css	/^.nav ul li.active{$/;"	function	line:519
+.partarea	/web/my/projectA/index.css	/^.partarea {$/;"	function	line:525
+.partarea .showgroup	/web/my/projectA/index.css	/^.partarea .showgroup {$/;"	function	line:530
+.part0	/web/my/projectA/index.css	/^.part0{$/;"	function	line:533
+.fix_width	/web/my/projectA/index.css	/^.fix_width {$/;"	function	line:539
+.fix_width .top	/web/my/projectA/index.css	/^.fix_width .top {$/;"	function	line:543
+.fix_img,.nav,.partarea	/web/my/projectA/index.css	/^.fix_img,.nav,.partarea{$/;"	function	line:551
+.siders,.bx-wrapper	/web/my/projectA/index.css	/^.siders,.bx-wrapper {$/;"	function	line:554
+.siders li img	/web/my/projectA/index.css	/^.siders li img {$/;"	function	line:557
+.bx-wrapper	/web/my/projectA/index.css	/^.bx-wrapper {$/;"	function	line:562
+.bx-wrapper img	/web/my/projectA/index.css	/^.bx-wrapper img{$/;"	function	line:568
+ul.bxslider	/web/my/projectA/index.css	/^ul.bxslider{$/;"	function	line:571
+.part0	/web/my/projectA/index.css	/^.part0 {$/;"	function	line:575
+.part1	/web/my/projectA/index.css	/^.part1 {$/;"	function	line:578
+.part2	/web/my/projectA/index.css	/^.part2 {$/;"	function	line:581
+.part3	/web/my/projectA/index.css	/^.part3 {$/;"	function	line:584
+.part4	/web/my/projectA/index.css	/^.part4 {$/;"	function	line:587
+.part5	/web/my/projectA/index.css	/^.part5 {$/;"	function	line:590

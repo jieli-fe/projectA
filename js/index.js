@@ -1,5 +1,14 @@
 $(document).ready(function(){
-  $('.bxslider').bxSlider();
+$('.bxslider').bxSlider({
+    slideWidth: 954,
+    minSlides: 4,
+    maxSlides: 4,
+    moveSlides: 1,
+    startSlide: 1,
+    slideMargin: 0,
+    pager: false,
+    infiniteLoop: false 
+});
 
   $(window).scroll(function() {
         var t = $(this).scrollTop();

@@ -551,6 +551,42 @@ body {
 .fix_img,.nav,.partarea{
   /*display: none*/
 }
-.bxslider {
-  display: none;
+.siders,.bx-wrapper {
+    height: 250px;
+}
+.siders li img {
+    height: 250px;
+    width: auto;
+}
+
+.bx-wrapper {
+  box-shadow: none;
+  border: none;
+  background: transparent;
+  margin: 0;
+}
+.bx-wrapper img{
+    display: inline-block;
+}
+ul.bxslider{
+    height: 250px;
+    overflow: hidden;
+}
+.part0 {
+    background: #fdd6d7;
+}
+.part1 {
+    background: #fec5b2;
+}
+.part2 {
+    background: #fbe1c8;
+}
+.part3 {
+    background: #e4dace;
+}
+.part4 {
+    background: #fde8e7;
+}
+.part5 {
+    background: #dcdcdc;
 }
