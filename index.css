@@ -551,3 +551,6 @@ body {
 .fix_img,.nav,.partarea{
   /*display: none*/
 }
+.bxslider {
+  display: none;
+}
