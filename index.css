@@ -536,6 +536,17 @@ body {
     z-index: 3
 }
 
+.fix_width {
+  width: 954px;
+  position: relative;
+}
+.fix_width .top {
+  position: fixed;
+  width: 100px;
+  height: 100px;
+  bottom: 40px;
+  z-index: 9;
+}
 
 .fix_img,.nav,.partarea{
   /*display: none*/
