@@ -112,3 +112,4 @@ ul.bxslider li:hover	/web/my/projectA/index.css	/^ul.bxslider li:hover {$/;"	fun
 .part3	/web/my/projectA/index.css	/^.part3 {$/;"	function	line:589
 .part4	/web/my/projectA/index.css	/^.part4 {$/;"	function	line:592
 .part5	/web/my/projectA/index.css	/^.part5 {$/;"	function	line:595
+/*.bx-wrapper .bx-prev	/web/my/projectA/index.css	/^\/*.bx-wrapper .bx-prev {$/;"	function	line:598

@@ -595,3 +595,9 @@ ul.bxslider li:hover {
 .part5 {
     background: #dcdcdc;
 }
+/*.bx-wrapper .bx-prev {
+    background: url(images/prev.png) no-repeat;
+    width: 27px;
+    height: 51px;
+    margin-top: -25px;
+}*/
