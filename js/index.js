@@ -34,7 +34,7 @@ function isMobild (){
     });
     $(".top").click(function() {
         $("body,html").stop().animate({
-            scrollTop: 0
+            scrollTop: 800
         }, 300); //html是为了兼容火狐和IE
     });
 
