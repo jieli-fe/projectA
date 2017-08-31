@@ -508,6 +508,8 @@ body {
     background: #858585;
     color: #fff;
     font-size: 16px;
+    padding: 0 40px;
+    cursor: pointer;
 }
 .nav ul li a{
     display: block;
@@ -547,6 +549,7 @@ body {
   height: 50px;
   bottom: 40px;
   z-index: 9;
+  cursor: pointer;
 }
 
 .fix_img,.nav,.partarea{

@@ -38,4 +38,10 @@ function isMobild (){
         }, 300); //html是为了兼容火狐和IE
     });
 
+    $('#nav li').click(function(){
+      var index = $(this).index();
+        $("body,html").stop().animate({
+            scrollTop: $('#area'+ index).offset().top
+        }, 300);
+    });
 });
