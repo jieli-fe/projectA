@@ -7,18 +7,24 @@ $('.bxslider').bxSlider({
     startSlide: 1,
     slideMargin: 0,
     pager: false,
-    infiniteLoop: false 
+    infiniteLoop: false
 });
 
+function isMobild (){
+  return  navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i) ? true : false;
+}
   var pos_right ;
   if(($(window).width() - 954)>0){
       pos_right = ($(window).width()-954)/2 - 45 ;
   }else {
       pos_right = 0;
   }
+  if(isMobild()){
+    pos_right = 0;
+  }
   $(".top").css("right",pos_right);
   $(window).scroll(function() {
-      
+
         var t = $(this).scrollTop();
         if (t > 300) {
             $(".top").stop().fadeIn(300);
@@ -31,5 +37,5 @@ $('.bxslider').bxSlider({
             scrollTop: 0
         }, 300); //html是为了兼容火狐和IE
     });
-    
+
 });
