@@ -430,8 +430,15 @@ template {
 * (optional) define here the style definitions which should be applied on the slider container
 * e.g. width including further controls like arrows etc.
 */
+ul,li {
+    margin: 0;
+    padding: 0;
+}
 .slider {}
-
+body {
+    position: relative;
+    text-align: center;
+}
 .prev, .next {
    position: absolute;
    top: 50%;
@@ -451,14 +458,8 @@ template {
 .next svg, .prev svg {
    width: 25px;
 }
-ul,li {
-    margin: 0;
-    padding: 0;
-}
-body {
-    position: relative;
-    text-align: center;
-}
+
+
 
 .wraparea {
     width: 1269px;
@@ -532,7 +533,7 @@ body {
     margin-left: 20px;
     text-align: center;
 }
-.style_icon img:hover {
+.style_icon a:hover img{
     transform: translate3d(0, -50px, 0) scale(.9);
     transition: all .1s ease;
 }
@@ -568,7 +569,7 @@ body {
   position: relative;
 }
 .fix_width .top {
-  position: fixed;
+  /*position: fixed;*/
   width: 45px;
   height: 50px;
   bottom: 40px;
@@ -596,11 +597,11 @@ body {
 .bx-wrapper img{
     display: inline-block;
 }
-ul.bxslider{
+.bxslider{
     height: 250px;
     overflow: hidden;
 }
-ul.bxslider li:hover {
+.bxslider li:hover {
     transform: scale(.9);
     transition: all .3s ease-in;
 }
