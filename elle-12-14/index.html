@@ -14,7 +14,7 @@
 <body>
 
 <div class="area">
-    <img src="images/e_01.jpg" alt="" class="imgfull">
+    <img src="images/e_01.jpg" alt="" class="imgfull" id="focusimg">
 </div>
 <div class="area nav" id="nav">
     <img src="images/e_02.jpg" alt="" class="imgfull">
@@ -84,7 +84,7 @@
             startSlide: 0,
             slideMargin: 0,
             pager: false,
-            infiniteLoop: false
+            infiniteLoop: true
         });
 
         $('#nav li').click(function(){
@@ -93,6 +93,24 @@
                 scrollTop: $('.navscrollarea').eq(index).offset().top
             }, 300);
         });
+
+        var imgurl = ['images/e_01.jpg','images/e_01-1.jpg'];
+        function  imgOnLoad(imgurl) {
+            var img = new Image();
+            img.src = imgurl;
+            img.onload = function(){
+                setTimeout(function(){
+
+                },2000)
+            }
+        }
+        imgOnLoad(imgurl[1])
+
+        function changeFocus(){
+            var focusimg = document.getElementById('focusimg');
+            focusimg.src=''
+        }
+
 
     });
 
