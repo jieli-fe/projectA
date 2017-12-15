@@ -610,6 +610,7 @@ body {
 }
 .code {
   text-align: center;
+  width: 1295px;
   padding: 85px 0;
 }
 .bx-wrapper .bx-prev {

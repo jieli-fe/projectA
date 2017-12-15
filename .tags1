@@ -4,139 +4,94 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-html	/web/my/projectA/index2.html	/^<html lang="en">$/;"	function	line:2
-head	/web/my/projectA/index2.html	/^<head>$/;"	function	line:3
-meta	/web/my/projectA/index2.html	/^    <meta charset="UTF-8">$/;"	function	line:4
-meta	/web/my/projectA/index2.html	/^    <meta http-equiv="X-UA-Compatible" content="ie=edge">$/;"	function	line:5
-title	/web/my/projectA/index2.html	/^    <title>ELLE×京东时尚 | 秋冬新风潮<\/title>$/;"	function	line:6
-link	/web/my/projectA/index2.html	/^    <link href="https:\/\/cdn.bootcss.com\/bxslider\/4.2.12\/jquery.bxslider.css" rel="stylesheet">$/;"	function	line:7
-link	/web/my/projectA/index2.html	/^    <link href="index.css" rel="stylesheet" \/>$/;"	function	line:8
-script	/web/my/projectA/index2.html	/^    <script src="https:\/\/cdn.bootcss.com\/jquery\/2.2.4\/jquery.min.js"><\/script>$/;"	function	line:11
-body	/web/my/projectA/index2.html	/^<body>$/;"	function	line:13
-div	/web/my/projectA/index2.html	/^    <div class="wraparea">$/;"	function	line:14
-img	/web/my/projectA/index2.html	/^        <img src="images\/p923_02.jpg" alt="">$/;"	function	line:15
-img	/web/my/projectA/index2.html	/^        <img src="images\/p923_04.jpg" alt="">$/;"	function	line:16
-img	/web/my/projectA/index2.html	/^        <img src="images\/p923_05.jpg" alt="">$/;"	function	line:17
-header	/web/my/projectA/index2.html	/^    <header class="nav" id="nav">$/;"	function	line:20
-ul	/web/my/projectA/index2.html	/^        <ul>$/;"	function	line:21
-li	/web/my/projectA/index2.html	/^            <li>复古姥姥风<\/li>$/;"	function	line:22
-li	/web/my/projectA/index2.html	/^            <li>多重混搭<\/li>$/;"	function	line:23
-li	/web/my/projectA/index2.html	/^            <li>嘻哈热浪<\/li>$/;"	function	line:24
-li	/web/my/projectA/index2.html	/^            <li>高街风尚<\/li>$/;"	function	line:25
-li	/web/my/projectA/index2.html	/^            <li>少女朋克<\/li>$/;"	function	line:26
-li	/web/my/projectA/index2.html	/^            <li>时髦办公室<\/li>$/;"	function	line:27
-div	/web/my/projectA/index2.html	/^    <div class="partarea part0" id="area0">$/;"	function	line:30
-div	/web/my/projectA/index2.html	/^        <div class="imgarea">$/;"	function	line:31
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_06.jpg" alt="">$/;"	function	line:32
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_07.jpg" alt="" usemap="#Map">$/;"	function	line:33
-map	/web/my/projectA/index2.html	/^            <map name="Map">$/;"	function	line:34
-area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="604,365,584,639,640,663,649,762,837,751,807,634,851,607,773,377,605,362" href="https:\/\/item.jd.com\/16187473191.html" target="_blank">$/;"	function	line:35
-area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="972,493,976,581,955,618,963,686,984,680,985,641,1029,692,1108,681,1029,609,1035,491,975,491" href="https:\/\/item.jd.com\/15926534701.html" target="_blank">$/;"	function	line:36
-area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="881,431,1060,434,1049,313,1082,354,1116,344,1037,153,985,116,952,118,899,154,834,351,872,360,898,284,882,427" href="https:\/\/item.jd.com\/15929946264.html" target="_blank">$/;"	function	line:37
-area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="649,310,828,263,776,144,622,175,649,309" href="http:\/\/item.jd.com\/12078047851.html" target="_blank">$/;"	function	line:38
-div	/web/my/projectA/index2.html	/^        <div class="style_icon">$/;"	function	line:41
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689284" target="_blank"><img src="images\/p923_10.jpg" alt=""><\/a>$/;"	function	line:42
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=690197" target="_blank"><img src="images\/p923_12.jpg" alt=""><\/a>$/;"	function	line:43
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691067" target="_blank"><img src="images\/p923_14.jpg" alt=""><\/a>$/;"	function	line:44
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691859" target="_blank"><img src="images\/p923_16.jpg" alt=""><\/a>$/;"	function	line:45
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=673531" target="_blank"><img src="images\/p923_18.jpg" alt=""><\/a>$/;"	function	line:46
-div	/web/my/projectA/index2.html	/^    <div class="partarea part1" id="area1">$/;"	function	line:49
-div	/web/my/projectA/index2.html	/^        <div class="imgarea">$/;"	function	line:50
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_25.jpg" alt="">$/;"	function	line:51
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_26.jpg" alt="" usemap="#Map2">$/;"	function	line:52
-map	/web/my/projectA/index2.html	/^          <map name="Map2">$/;"	function	line:53
-area	/web/my/projectA/index2.html	/^              <area shape="circle" coords="442,215,94" href="https:\/\/item.jd.com\/11576344362.html#none">$/;"	function	line:54
-area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="175,131,129,218,104,319,164,341,179,534,311,516,292,331,337,298,263,141,231,124,176,130" href="https:\/\/item.jd.com\/15542120613.html" target="_blank">$/;"	function	line:55
-area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="598,444,635,654,601,662,622,810,457,816,466,663,434,659,467,444,513,412,555,413,599,441" href="https:\/\/item.jd.com\/15351552108.html" target="_blank">$/;"	function	line:56
-area	/web/my/projectA/index2.html	/^            <area shape="poly" coords="301,809,342,766,354,545,405,562,395,760,379,807" href="http:\/\/item.jd.com\/15756993642.html" target="_blank">$/;"	function	line:57
-area	/web/my/projectA/index2.html	/^            <area shape="poly" coords="163,548,292,574,273,753,101,703,163,547" href="http:\/\/item.jd.com\/11975612987.html#crumb-wrap" target="_blank">$/;"	function	line:58
-area	/web/my/projectA/index2.html	/^            <area shape="poly" coords="576,174,681,198,664,480,610,477,599,439,549,413" href="https:\/\/item.jd.com\/15934082696.html" target="_blank">$/;"	function	line:59
-div	/web/my/projectA/index2.html	/^        <div class="style_header">$/;"	function	line:62
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_27.jpg" alt="">$/;"	function	line:63
-div	/web/my/projectA/index2.html	/^        <div class="style_icon">$/;"	function	line:65
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691059" target="_blank"><img src="images\/p923_30.jpg" alt=""><\/a>$/;"	function	line:66
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691867" target="_blank"><img src="images\/p923_32.jpg" alt=""><\/a>$/;"	function	line:67
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689030" target="_blank"><img src="images\/p923_34.jpg" alt=""><\/a>$/;"	function	line:68
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691020" target="_blank"><img src="images\/p923_36.jpg" alt=""><\/a>$/;"	function	line:69
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=695953" target="_blank"><img src="images\/p923_38.jpg" alt=""><\/a>$/;"	function	line:70
-div	/web/my/projectA/index2.html	/^    <div class="partarea part2" id="area2">$/;"	function	line:73
-div	/web/my/projectA/index2.html	/^        <div class="imgarea">$/;"	function	line:74
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_45.jpg" alt="">$/;"	function	line:75
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_46.jpg" alt="" usemap="#Map3">$/;"	function	line:76
-map	/web/my/projectA/index2.html	/^            <map name="Map3">$/;"	function	line:77
-area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="641,122,599,326,641,336,643,377,765,376,768,327,806,327,761,124,731,109,673,104" href="http:\/\/item.jd.com\/15310747304.html" target="_blank">$/;"	function	line:78
-area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="990,333,1138,746" href="https:\/\/item.jd.com\/11687198269.html" target="_blank">$/;"	function	line:79
-area	/web/my/projectA/index2.html	/^<area shape="poly" coords="657,749,745,769,939,755,921,652,810,644,677,708,659,749" href="https:\/\/item.jd.com\/15377874081.html" target="_blank">$/;"	function	line:80
-area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="769,419,839,560,978,497,951,397,863,351" href="http:\/\/item.jd.com\/1466915760.html#crumb-wrap" target="_blank">$/;"	function	line:81
-area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="621,586,691,624,768,519,753,466,691,451,638,493,621,584" href="http:\/\/item.jd.com\/14945419927.html#crumb-wrap" target="_blank">$/;"	function	line:82
-area	/web/my/projectA/index2.html	/^              <area shape="circle" coords="871,175,66" href="https:\/\/item.jd.com\/15434875083.html" target="_blank">$/;"	function	line:83
-area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="919,222,1107,272,1090,307,936,305,896,273,919,223" href="https:\/\/item.jd.com\/15712188959.html#crumb-wrap" target="_blank">$/;"	function	line:84
-div	/web/my/projectA/index2.html	/^        <div class="style_header">$/;"	function	line:87
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_47.jpg" alt="">$/;"	function	line:88
-div	/web/my/projectA/index2.html	/^        <div class="style_icon">$/;"	function	line:90
-a	/web/my/projectA/index2.html	/^            <a href="" target="_blank"><img src="images\/p923_50.jpg" alt="https:\/\/ypzj.jd.com\/inventory.html?id=690486"><\/a>$/;"	function	line:91
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689338" target="_blank"><img src="images\/p923_52.jpg" alt=""><\/a>$/;"	function	line:92
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688962" target="_blank"><img src="images\/p923_54.jpg" alt=""><\/a>$/;"	function	line:93
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=690877" target="_blank"><img src="images\/p923_56.jpg" alt=""><\/a>$/;"	function	line:94
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694871" target="_blank"><img src="images\/p923_58.jpg" alt=""><\/a>$/;"	function	line:95
-div	/web/my/projectA/index2.html	/^    <div class="partarea part3" id="area3">$/;"	function	line:98
-div	/web/my/projectA/index2.html	/^        <div class="imgarea">$/;"	function	line:99
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_65.jpg" alt="">$/;"	function	line:100
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_66.jpg" alt="" usemap="#Map4">$/;"	function	line:101
-map	/web/my/projectA/index2.html	/^            <map name="Map4">$/;"	function	line:102
-area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="449,144,656,521" href="https:\/\/item.jd.com\/14712012024.html" target="_blank">$/;"	function	line:103
-area	/web/my/projectA/index2.html	/^              <area shape="circle" coords="307,215,116" href="http:\/\/item.jd.com\/14277538620.html" target="_blank">$/;"	function	line:104
-area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="145,353,304,803" href="https:\/\/item.jd.com\/15935743818.html" target="_blank">$/;"	function	line:105
-area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="381,545,613,748" href="https:\/\/item.jd.com\/15271165531.html" target="_blank">$/;"	function	line:106
-div	/web/my/projectA/index2.html	/^        <div class="style_header">$/;"	function	line:109
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_67.jpg" alt="">$/;"	function	line:110
-div	/web/my/projectA/index2.html	/^        <div class="style_icon">$/;"	function	line:112
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694129" target="_blank"><img src="images\/p923_70.jpg" alt=""><\/a>$/;"	function	line:113
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689357" target="_blank"><img src="images\/p923_72.jpg" alt=""><\/a>$/;"	function	line:114
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=693203" target="_blank"><img src="images\/p923_74.jpg" alt=""><\/a>$/;"	function	line:115
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691115" target="_blank"><img src="images\/p923_76.jpg" alt=""><\/a>$/;"	function	line:116
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694114" target="_blank"><img src="images\/p923_78.jpg" alt=""><\/a>$/;"	function	line:117
-div	/web/my/projectA/index2.html	/^    <div class="partarea part4" id="area4">$/;"	function	line:120
-div	/web/my/projectA/index2.html	/^        <div class="imgarea">$/;"	function	line:121
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_85.jpg" alt="">$/;"	function	line:122
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_86.jpg" alt="" usemap="#Map5">$/;"	function	line:123
-map	/web/my/projectA/index2.html	/^            <map name="Map5">$/;"	function	line:124
-area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="974,171,1144,722" href="https:\/\/item.jd.com\/15935158965.html" target="_blank">$/;"	function	line:125
-area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="607,357,895,488" href="https:\/\/item.jd.com\/10277881602.html" target="_blank">$/;"	function	line:126
-area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="701,305,754,328,770,307,885,313,902,329,951,304,885,146,826,122,764,146,702,304" href="https:\/\/item.jd.com\/15073799647.html" target="_blank">$/;"	function	line:127
-area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="761,693,829,638,878,537,966,524,964,678,858,710,763,693" href="https:\/\/item.jd.com\/16062517005.html" target="_blank">$/;"	function	line:128
-area	/web/my/projectA/index2.html	/^              <area shape="circle" coords="683,594,69" href="http:\/\/item.jd.com\/15505641782.html#crumb-wrap" target="_blank">$/;"	function	line:129
-div	/web/my/projectA/index2.html	/^        <div class="style_header">$/;"	function	line:132
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_87.jpg" alt="">$/;"	function	line:133
-div	/web/my/projectA/index2.html	/^        <div class="style_icon">$/;"	function	line:135
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688486" target="_blank"><img src="images\/p923_90.jpg" alt=""><\/a>$/;"	function	line:136
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=692374" target="_blank"><img src="images\/p923_92.jpg" alt=""><\/a>$/;"	function	line:137
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694950" target="_blank"><img src="images\/p923_94.jpg" alt=""><\/a>$/;"	function	line:138
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=690941" target="_blank"><img src="images\/p923_96.jpg" alt=""><\/a>$/;"	function	line:139
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=554908" target="_blank"><img src="images\/p923_98.jpg" alt=""><\/a>$/;"	function	line:140
-div	/web/my/projectA/index2.html	/^    <div class="partarea part5" id="area5">$/;"	function	line:143
-div	/web/my/projectA/index2.html	/^        <div class="imgarea">$/;"	function	line:144
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_105.jpg" alt="">$/;"	function	line:145
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_106.jpg" alt="" usemap="#Map6">$/;"	function	line:146
-map	/web/my/projectA/index2.html	/^            <map name="Map6">$/;"	function	line:147
-area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="261,254,451,607" href="https:\/\/item.jd.com\/15938910187.html" target="_blank">$/;"	function	line:148
-area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="484,455,655,749" href="http:\/\/item.jd.com\/10348720972.html" target="_blank">$/;"	function	line:149
-area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="266,620,478,819" href="http:\/\/item.jd.com\/14403149772.html" target="_blank">$/;"	function	line:150
-area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="85,164,230,415" href="https:\/\/item.jd.com\/15936463525.html" target="_blank">$/;"	function	line:151
-area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="546,211,531,289,455,343,537,364,623,360,640,287,625,211,546,208" href="https:\/\/item.jd.com\/15271165531.html" target="_blank">$/;"	function	line:152
-area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="119,746,237,710,205,473,54,487,119,745" href="https:\/\/item.jd.com\/12067941156.html" target="_blank">$/;"	function	line:153
-area	/web/my/projectA/index2.html	/^              <area shape="circle" coords="348,169,78" href="http:\/\/item.jd.com\/14277538620.html" target="_blank">$/;"	function	line:154
-div	/web/my/projectA/index2.html	/^        <div class="style_header">$/;"	function	line:157
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_107.jpg" alt="">$/;"	function	line:158
-div	/web/my/projectA/index2.html	/^        <div class="style_icon">$/;"	function	line:160
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688953" target="_blank"><img src="images\/p923_110.jpg" alt=""><\/a>$/;"	function	line:161
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689635" target="_blank"><img src="images\/p923_112.jpg" alt=""><\/a>$/;"	function	line:162
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=114479" target="_blank"><img src="images\/p923_114.jpg" alt=""><\/a>$/;"	function	line:163
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689326" target="_blank"><img src="images\/p923_116.jpg" alt=""><\/a>$/;"	function	line:164
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688820" target="_blank"><img src="images\/p923_118.jpg" alt=""><\/a>$/;"	function	line:165
-div	/web/my/projectA/index2.html	/^    <div class="code">$/;"	function	line:169
-img	/web/my/projectA/index2.html	/^      <img src="images\/p923_126.jpg" alt="">$/;"	function	line:170
-div	/web/my/projectA/index2.html	/^    <div class="fix_width">$/;"	function	line:173
-div	/web/my/projectA/index2.html	/^      <div class="top"><img src="images\/top.png" alt=""><\/div>$/;"	function	line:174
-script	/web/my/projectA/index2.html	/^    <script src="https:\/\/cdn.bootcss.com\/bxslider\/4.2.12\/jquery.bxslider.min.js"><\/script>$/;"	function	line:176
-script	/web/my/projectA/index2.html	/^    <script src='js\/index.js'><\/script>$/;"	function	line:177
+html	/web/my/projectA/index-app.html	/^<html lang="en">$/;"	function	line:2
+head	/web/my/projectA/index-app.html	/^<head>$/;"	function	line:3
+meta	/web/my/projectA/index-app.html	/^    <meta charset="UTF-8">$/;"	function	line:4
+meta	/web/my/projectA/index-app.html	/^    <meta http-equiv="X-UA-Compatible" content="ie=edge">$/;"	function	line:5
+title	/web/my/projectA/index-app.html	/^    <title>ELLE×京东时尚 | 秋冬新风潮<\/title>$/;"	function	line:6
+link	/web/my/projectA/index-app.html	/^    <link href="https:\/\/cdn.bootcss.com\/bxslider\/4.2.12\/jquery.bxslider.css" rel="stylesheet">$/;"	function	line:7
+link	/web/my/projectA/index-app.html	/^    <link href="index-app.css" rel="stylesheet" \/>$/;"	function	line:8
+script	/web/my/projectA/index-app.html	/^    <script src="https:\/\/cdn.bootcss.com\/jquery\/2.2.4\/jquery.min.js"><\/script>$/;"	function	line:11
+body	/web/my/projectA/index-app.html	/^<body>$/;"	function	line:13
+div	/web/my/projectA/index-app.html	/^    <div class="wraparea">$/;"	function	line:14
+img	/web/my/projectA/index-app.html	/^        <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_02.jpg" alt="">$/;"	function	line:15
+img	/web/my/projectA/index-app.html	/^        <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_04.jpg" alt="">$/;"	function	line:16
+img	/web/my/projectA/index-app.html	/^        <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_05.jpg" alt="">$/;"	function	line:17
+header	/web/my/projectA/index-app.html	/^    <header class="nav" id="nav">$/;"	function	line:20
+ul	/web/my/projectA/index-app.html	/^        <ul>$/;"	function	line:21
+li	/web/my/projectA/index-app.html	/^            <li>复古姥姥风<\/li>$/;"	function	line:22
+li	/web/my/projectA/index-app.html	/^            <li>多重混搭<\/li>$/;"	function	line:23
+li	/web/my/projectA/index-app.html	/^            <li>嘻哈热浪<\/li>$/;"	function	line:24
+li	/web/my/projectA/index-app.html	/^            <li>高街风尚<\/li>$/;"	function	line:25
+li	/web/my/projectA/index-app.html	/^            <li>少女朋克<\/li>$/;"	function	line:26
+li	/web/my/projectA/index-app.html	/^            <li>时髦办公室<\/li>$/;"	function	line:27
+div	/web/my/projectA/index-app.html	/^    <div class="partarea part0" id="area0">$/;"	function	line:30
+div	/web/my/projectA/index-app.html	/^        <div class="imgarea">$/;"	function	line:31
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_06.jpg" alt="">$/;"	function	line:32
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_07.jpg" alt="">$/;"	function	line:33
+div	/web/my/projectA/index-app.html	/^        <div class="style_icon">$/;"	function	line:35
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689284" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_10.jpg" alt=""><\/a>$/;"	function	line:36
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=690197" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_12.jpg" alt=""><\/a>$/;"	function	line:37
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691067" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_14.jpg" alt=""><\/a>$/;"	function	line:38
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691859" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_16.jpg" alt=""><\/a>$/;"	function	line:39
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=673531" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_18.jpg" alt=""><\/a>$/;"	function	line:40
+div	/web/my/projectA/index-app.html	/^    <div class="partarea part1" id="area1">$/;"	function	line:43
+div	/web/my/projectA/index-app.html	/^        <div class="imgarea">$/;"	function	line:44
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_25.jpg" alt="">$/;"	function	line:45
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_26.jpg" alt="" >$/;"	function	line:46
+div	/web/my/projectA/index-app.html	/^        <div class="style_header">$/;"	function	line:49
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_27.jpg" alt="">$/;"	function	line:50
+div	/web/my/projectA/index-app.html	/^        <div class="style_icon">$/;"	function	line:52
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691059" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_30.jpg" alt=""><\/a>$/;"	function	line:53
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691867" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_32.jpg" alt=""><\/a>$/;"	function	line:54
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689030" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_34.jpg" alt=""><\/a>$/;"	function	line:55
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691020" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_36.jpg" alt=""><\/a>$/;"	function	line:56
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=695953" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_38.jpg" alt=""><\/a>$/;"	function	line:57
+div	/web/my/projectA/index-app.html	/^    <div class="partarea part2" id="area2">$/;"	function	line:60
+div	/web/my/projectA/index-app.html	/^        <div class="imgarea">$/;"	function	line:61
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_45.jpg" alt="">$/;"	function	line:62
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_46.jpg" alt="" >$/;"	function	line:63
+div	/web/my/projectA/index-app.html	/^        <div class="style_header">$/;"	function	line:66
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_47.jpg" alt="">$/;"	function	line:67
+div	/web/my/projectA/index-app.html	/^        <div class="style_icon">$/;"	function	line:69
+a	/web/my/projectA/index-app.html	/^            <a href="" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_50.jpg" alt="https:\/\/ypzj.jd.com\/inventory.html?id=690486"><\/a>$/;"	function	line:70
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689338" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_52.jpg" alt=""><\/a>$/;"	function	line:71
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688962" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_54.jpg" alt=""><\/a>$/;"	function	line:72
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=690877" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_56.jpg" alt=""><\/a>$/;"	function	line:73
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694871" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_58.jpg" alt=""><\/a>$/;"	function	line:74
+div	/web/my/projectA/index-app.html	/^    <div class="partarea part3" id="area3">$/;"	function	line:77
+div	/web/my/projectA/index-app.html	/^        <div class="imgarea">$/;"	function	line:78
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_65.jpg" alt="">$/;"	function	line:79
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_66.jpg" alt="" >$/;"	function	line:80
+div	/web/my/projectA/index-app.html	/^        <div class="style_header">$/;"	function	line:83
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_67.jpg" alt="">$/;"	function	line:84
+div	/web/my/projectA/index-app.html	/^        <div class="style_icon">$/;"	function	line:86
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694129" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_70.jpg" alt=""><\/a>$/;"	function	line:87
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689357" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_72.jpg" alt=""><\/a>$/;"	function	line:88
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=693203" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_74.jpg" alt=""><\/a>$/;"	function	line:89
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691115" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_76.jpg" alt=""><\/a>$/;"	function	line:90
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694114" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_78.jpg" alt=""><\/a>$/;"	function	line:91
+div	/web/my/projectA/index-app.html	/^    <div class="partarea part4" id="area4">$/;"	function	line:94
+div	/web/my/projectA/index-app.html	/^        <div class="imgarea">$/;"	function	line:95
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_85.jpg" alt="">$/;"	function	line:96
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_86.jpg" alt="" >$/;"	function	line:97
+div	/web/my/projectA/index-app.html	/^        <div class="style_header">$/;"	function	line:100
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_87.jpg" alt="">$/;"	function	line:101
+div	/web/my/projectA/index-app.html	/^        <div class="style_icon">$/;"	function	line:103
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688486" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_90.jpg" alt=""><\/a>$/;"	function	line:104
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=692374" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_92.jpg" alt=""><\/a>$/;"	function	line:105
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694950" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_94.jpg" alt=""><\/a>$/;"	function	line:106
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=690941" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_96.jpg" alt=""><\/a>$/;"	function	line:107
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=554908" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_98.jpg" alt=""><\/a>$/;"	function	line:108
+div	/web/my/projectA/index-app.html	/^    <div class="partarea part5" id="area5">$/;"	function	line:111
+div	/web/my/projectA/index-app.html	/^        <div class="imgarea">$/;"	function	line:112
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_105.jpg" alt="">$/;"	function	line:113
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_106.jpg" alt="">$/;"	function	line:114
+div	/web/my/projectA/index-app.html	/^        <div class="style_header">$/;"	function	line:117
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_107.jpg" alt="">$/;"	function	line:118
+div	/web/my/projectA/index-app.html	/^        <div class="style_icon">$/;"	function	line:120
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688953" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_110.jpg" alt=""><\/a>$/;"	function	line:121
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689635" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_112.jpg" alt=""><\/a>$/;"	function	line:122
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=114479" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_114.jpg" alt=""><\/a>$/;"	function	line:123
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689326" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_116.jpg" alt=""><\/a>$/;"	function	line:124
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688820" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_118.jpg" alt=""><\/a>$/;"	function	line:125

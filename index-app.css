@@ -462,43 +462,54 @@ body {
 
 
 .wraparea {
-    width: 1259px;
+    width: 100%;
     margin: 0 auto;
     font-size: 0;
 }
+.wraparea img {
+    width: 100%;
+}
+    
 .partarea{
-    width: 1259px;
+    width: 100%;
     margin: 0 auto;
 }
 .nav {
-    width: 1259px;
+    width: 100%;
     margin: 0 auto;
     text-align: center;
-    height: 70px;
     position: relative;
     z-index: 7;
+    background: #fff;
 }
 .nav ul {
     font-size: 0;
+    text-align: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
 }
 .nav ul li {
+    flex: 1 0 auto ;
+    list-style: none;
+    white-space:nowrap;
     display: inline-block;
     border-bottom: 2px solid transparent;
-    margin-left: 10px;
     height: 70px;
     line-height: 70px;
     background: #010101;
     color: #fff;
-    font-size: 22px;
-    padding: 0 30px;
+    font-size: 16px;
     cursor: pointer;
-}
-.nav ul li:nth-child(even){
-    background: #a0a2a1;
 }
 .nav ul li:first-child{
     margin-left: 0;
 }
+.nav ul li:nth-child(even){
+    background: #a0a2a1;
+}
+
 .nav ul li a{
     display: block;
     color: #fff;
@@ -512,14 +523,17 @@ body {
     margin-left: 0;
     background: #d32a2d;
 }
-.imgarea img{
-    width: 100%;
-}
 .imgarea,.style_header{
     font-size: 0;
 }
+.imgarea img {
+    width: 100%;
+}
+.style_header img {
+    width: 100%;
+}
 .partarea {
-    width: 1259px;
+    width: 100%;
     margin: 0 auto;
     text-align: center;
 }
@@ -530,16 +544,21 @@ body {
     width: 100%;
     padding: 40px 0;
     overflow: hidden;
+    font-size: 0;
+    zoom: 1;
+}
+.style_icon a{
+    width: 20%;
+    display: inline-block;
 }
 .style_icon img {
-    display: inline-block;
-    margin-left: 20px;
+    display: block;
     text-align: center;
+    margin: 0 auto;
+    width: 95%;
+    height: 95%;
 }
-.style_icon a:hover img{
-    transform: scale(.9);
-    transition: all .1s ease;
-}
+
 .style_icon img:first-child{
     margin: 0;
 }
@@ -562,17 +581,16 @@ body {
     background: #c9c9c9;
 }
 .part0{
-    margin-top: -50px;
+    margin-top: 10px;
     position: relative;
     z-index: 3
 }
 
 .fix_width {
-  width: 1259px;
+  width: 100%;
   position: relative;
 }
 .fix_width .top {
-  position: fixed;
   width: 45px;
   height: 50px;
   bottom: 40px;
@@ -580,9 +598,6 @@ body {
   cursor: pointer;
 }
 
-.fix_img,.nav,.partarea{
-  /*display: none*/
-}
 .siders,.bx-wrapper {
     height: 250px;
 }
@@ -611,10 +626,4 @@ body {
 .code {
   text-align: center;
   padding: 85px 0;
-}
-.bx-wrapper .bx-prev {
-    background: url(http://mini1.ellechina.com/v14/images/prev.png) no-repeat;
-    width: 27px;
-    height: 51px;
-    margin-top: -25px;
 }

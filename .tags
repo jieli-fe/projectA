@@ -124,31 +124,32 @@ body	/web/my/projectA/index.css	/^body {$/;"	function	line:438
 .nav ul li a	/web/my/projectA/index.css	/^.nav ul li a{$/;"	function	line:502
 .nav ul li a:hover	/web/my/projectA/index.css	/^.nav ul li a:hover{$/;"	function	line:507
 .nav ul li.active	/web/my/projectA/index.css	/^.nav ul li.active{$/;"	function	line:509
-.imgarea,.style_header	/web/my/projectA/index.css	/^.imgarea,.style_header{$/;"	function	line:515
-.partarea	/web/my/projectA/index.css	/^.partarea {$/;"	function	line:518
-.partarea .showgroup	/web/my/projectA/index.css	/^.partarea .showgroup {$/;"	function	line:523
-.style_icon	/web/my/projectA/index.css	/^.style_icon {$/;"	function	line:526
-.style_icon img	/web/my/projectA/index.css	/^.style_icon img {$/;"	function	line:531
-.style_icon a:hover img	/web/my/projectA/index.css	/^.style_icon a:hover img{$/;"	function	line:536
-.style_icon img:first-child	/web/my/projectA/index.css	/^.style_icon img:first-child{$/;"	function	line:540
-.part0 .style_icon	/web/my/projectA/index.css	/^.part0 .style_icon{$/;"	function	line:543
-.part1 .style_icon	/web/my/projectA/index.css	/^.part1 .style_icon{$/;"	function	line:546
-.part2 .style_icon	/web/my/projectA/index.css	/^.part2 .style_icon{$/;"	function	line:549
-.part3 .style_icon	/web/my/projectA/index.css	/^.part3 .style_icon{$/;"	function	line:552
-.part4 .style_icon	/web/my/projectA/index.css	/^.part4 .style_icon{$/;"	function	line:555
-.part5 .style_icon	/web/my/projectA/index.css	/^.part5 .style_icon{$/;"	function	line:558
-.part0	/web/my/projectA/index.css	/^.part0{$/;"	function	line:561
-.fix_width	/web/my/projectA/index.css	/^.fix_width {$/;"	function	line:567
-.fix_width .top	/web/my/projectA/index.css	/^.fix_width .top {$/;"	function	line:571
-.fix_img,.nav,.partarea	/web/my/projectA/index.css	/^.fix_img,.nav,.partarea{$/;"	function	line:580
-.siders,.bx-wrapper	/web/my/projectA/index.css	/^.siders,.bx-wrapper {$/;"	function	line:583
-.siders li img	/web/my/projectA/index.css	/^.siders li img {$/;"	function	line:586
-.bx-wrapper	/web/my/projectA/index.css	/^.bx-wrapper {$/;"	function	line:591
-.bx-wrapper img	/web/my/projectA/index.css	/^.bx-wrapper img{$/;"	function	line:597
-.bxslider	/web/my/projectA/index.css	/^.bxslider{$/;"	function	line:600
-.bxslider li:hover	/web/my/projectA/index.css	/^.bxslider li:hover {$/;"	function	line:604
-.code	/web/my/projectA/index.css	/^.code {$/;"	function	line:608
-/*.bx-wrapper .bx-prev	/web/my/projectA/index.css	/^\/*.bx-wrapper .bx-prev {$/;"	function	line:612
+.imgarea img	/web/my/projectA/index.css	/^.imgarea img{$/;"	function	line:515
+.imgarea,.style_header	/web/my/projectA/index.css	/^.imgarea,.style_header{$/;"	function	line:518
+.partarea	/web/my/projectA/index.css	/^.partarea {$/;"	function	line:521
+.partarea .showgroup	/web/my/projectA/index.css	/^.partarea .showgroup {$/;"	function	line:526
+.style_icon	/web/my/projectA/index.css	/^.style_icon {$/;"	function	line:529
+.style_icon img	/web/my/projectA/index.css	/^.style_icon img {$/;"	function	line:534
+.style_icon a:hover img	/web/my/projectA/index.css	/^.style_icon a:hover img{$/;"	function	line:539
+.style_icon img:first-child	/web/my/projectA/index.css	/^.style_icon img:first-child{$/;"	function	line:543
+.part0 .style_icon	/web/my/projectA/index.css	/^.part0 .style_icon{$/;"	function	line:546
+.part1 .style_icon	/web/my/projectA/index.css	/^.part1 .style_icon{$/;"	function	line:549
+.part2 .style_icon	/web/my/projectA/index.css	/^.part2 .style_icon{$/;"	function	line:552
+.part3 .style_icon	/web/my/projectA/index.css	/^.part3 .style_icon{$/;"	function	line:555
+.part4 .style_icon	/web/my/projectA/index.css	/^.part4 .style_icon{$/;"	function	line:558
+.part5 .style_icon	/web/my/projectA/index.css	/^.part5 .style_icon{$/;"	function	line:561
+.part0	/web/my/projectA/index.css	/^.part0{$/;"	function	line:564
+.fix_width	/web/my/projectA/index.css	/^.fix_width {$/;"	function	line:570
+.fix_width .top	/web/my/projectA/index.css	/^.fix_width .top {$/;"	function	line:574
+.fix_img,.nav,.partarea	/web/my/projectA/index.css	/^.fix_img,.nav,.partarea{$/;"	function	line:583
+.siders,.bx-wrapper	/web/my/projectA/index.css	/^.siders,.bx-wrapper {$/;"	function	line:586
+.siders li img	/web/my/projectA/index.css	/^.siders li img {$/;"	function	line:589
+.bx-wrapper	/web/my/projectA/index.css	/^.bx-wrapper {$/;"	function	line:594
+.bx-wrapper img	/web/my/projectA/index.css	/^.bx-wrapper img{$/;"	function	line:600
+.bxslider	/web/my/projectA/index.css	/^.bxslider{$/;"	function	line:603
+.bxslider li:hover	/web/my/projectA/index.css	/^.bxslider li:hover {$/;"	function	line:607
+.code	/web/my/projectA/index.css	/^.code {$/;"	function	line:611
+/*.bx-wrapper .bx-prev	/web/my/projectA/index.css	/^\/*.bx-wrapper .bx-prev {$/;"	function	line:615
 html	/web/my/projectA/index.html	/^<html lang="en">$/;"	function	line:2
 head	/web/my/projectA/index.html	/^<head>$/;"	function	line:3
 meta	/web/my/projectA/index.html	/^    <meta charset="UTF-8">$/;"	function	line:4
@@ -240,12 +241,6 @@ a	/web/my/projectA/index.html	/^            <a href="https:\/\/ypzj.jd.com\/inve
 a	/web/my/projectA/index.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=114479" target="_blank"><img src="images\/p923_114.jpg" alt=""><\/a>$/;"	function	line:118
 a	/web/my/projectA/index.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689326" target="_blank"><img src="images\/p923_116.jpg" alt=""><\/a>$/;"	function	line:119
 a	/web/my/projectA/index.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688820" target="_blank"><img src="images\/p923_118.jpg" alt=""><\/a>$/;"	function	line:120
-div	/web/my/projectA/index.html	/^    <div class="code">$/;"	function	line:124
-img	/web/my/projectA/index.html	/^      <img src="images\/p923_126.jpg" alt="">$/;"	function	line:125
-div	/web/my/projectA/index.html	/^    <div class="fix_width">$/;"	function	line:128
-div	/web/my/projectA/index.html	/^      <div class="top"><img src="images\/top.png" alt=""><\/div>$/;"	function	line:129
-script	/web/my/projectA/index.html	/^    <script src="https:\/\/cdn.bootcss.com\/bxslider\/4.2.12\/jquery.bxslider.min.js"><\/script>$/;"	function	line:131
-script	/web/my/projectA/index.html	/^    <script src='js\/index.js'><\/script>$/;"	function	line:132
 html	/web/my/projectA/index2.html	/^<html lang="en">$/;"	function	line:2
 head	/web/my/projectA/index2.html	/^<head>$/;"	function	line:3
 meta	/web/my/projectA/index2.html	/^    <meta charset="UTF-8">$/;"	function	line:4
@@ -256,9 +251,9 @@ link	/web/my/projectA/index2.html	/^    <link href="index.css" rel="stylesheet" 
 script	/web/my/projectA/index2.html	/^    <script src="https:\/\/cdn.bootcss.com\/jquery\/2.2.4\/jquery.min.js"><\/script>$/;"	function	line:11
 body	/web/my/projectA/index2.html	/^<body>$/;"	function	line:13
 div	/web/my/projectA/index2.html	/^    <div class="wraparea">$/;"	function	line:14
-img	/web/my/projectA/index2.html	/^        <img src="images\/p923_02.jpg" alt="">$/;"	function	line:15
-img	/web/my/projectA/index2.html	/^        <img src="images\/p923_04.jpg" alt="">$/;"	function	line:16
-img	/web/my/projectA/index2.html	/^        <img src="images\/p923_05.jpg" alt="">$/;"	function	line:17
+img	/web/my/projectA/index2.html	/^        <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_02.jpg" alt="">$/;"	function	line:15
+img	/web/my/projectA/index2.html	/^        <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_04.jpg" alt="">$/;"	function	line:16
+img	/web/my/projectA/index2.html	/^        <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_05.jpg" alt="">$/;"	function	line:17
 header	/web/my/projectA/index2.html	/^    <header class="nav" id="nav">$/;"	function	line:20
 ul	/web/my/projectA/index2.html	/^        <ul>$/;"	function	line:21
 li	/web/my/projectA/index2.html	/^            <li>复古姥姥风<\/li>$/;"	function	line:22
@@ -269,23 +264,23 @@ li	/web/my/projectA/index2.html	/^            <li>少女朋克<\/li>$/;"	functio
 li	/web/my/projectA/index2.html	/^            <li>时髦办公室<\/li>$/;"	function	line:27
 div	/web/my/projectA/index2.html	/^    <div class="partarea part0" id="area0">$/;"	function	line:30
 div	/web/my/projectA/index2.html	/^        <div class="imgarea">$/;"	function	line:31
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_06.jpg" alt="">$/;"	function	line:32
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_07.jpg" alt="" usemap="#Map">$/;"	function	line:33
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_06.jpg" alt="">$/;"	function	line:32
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_07.jpg" alt="" usemap="#Map">$/;"	function	line:33
 map	/web/my/projectA/index2.html	/^            <map name="Map">$/;"	function	line:34
 area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="604,365,584,639,640,663,649,762,837,751,807,634,851,607,773,377,605,362" href="https:\/\/item.jd.com\/16187473191.html" target="_blank">$/;"	function	line:35
 area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="972,493,976,581,955,618,963,686,984,680,985,641,1029,692,1108,681,1029,609,1035,491,975,491" href="https:\/\/item.jd.com\/15926534701.html" target="_blank">$/;"	function	line:36
 area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="881,431,1060,434,1049,313,1082,354,1116,344,1037,153,985,116,952,118,899,154,834,351,872,360,898,284,882,427" href="https:\/\/item.jd.com\/15929946264.html" target="_blank">$/;"	function	line:37
 area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="649,310,828,263,776,144,622,175,649,309" href="http:\/\/item.jd.com\/12078047851.html" target="_blank">$/;"	function	line:38
 div	/web/my/projectA/index2.html	/^        <div class="style_icon">$/;"	function	line:41
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689284" target="_blank"><img src="images\/p923_10.jpg" alt=""><\/a>$/;"	function	line:42
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=690197" target="_blank"><img src="images\/p923_12.jpg" alt=""><\/a>$/;"	function	line:43
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691067" target="_blank"><img src="images\/p923_14.jpg" alt=""><\/a>$/;"	function	line:44
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691859" target="_blank"><img src="images\/p923_16.jpg" alt=""><\/a>$/;"	function	line:45
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=673531" target="_blank"><img src="images\/p923_18.jpg" alt=""><\/a>$/;"	function	line:46
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689284" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_10.jpg" alt=""><\/a>$/;"	function	line:42
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=690197" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_12.jpg" alt=""><\/a>$/;"	function	line:43
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691067" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_14.jpg" alt=""><\/a>$/;"	function	line:44
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691859" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_16.jpg" alt=""><\/a>$/;"	function	line:45
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=673531" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_18.jpg" alt=""><\/a>$/;"	function	line:46
 div	/web/my/projectA/index2.html	/^    <div class="partarea part1" id="area1">$/;"	function	line:49
 div	/web/my/projectA/index2.html	/^        <div class="imgarea">$/;"	function	line:50
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_25.jpg" alt="">$/;"	function	line:51
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_26.jpg" alt="" usemap="#Map2">$/;"	function	line:52
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_25.jpg" alt="">$/;"	function	line:51
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_26.jpg" alt="" usemap="#Map2">$/;"	function	line:52
 map	/web/my/projectA/index2.html	/^          <map name="Map2">$/;"	function	line:53
 area	/web/my/projectA/index2.html	/^              <area shape="circle" coords="442,215,94" href="https:\/\/item.jd.com\/11576344362.html#none">$/;"	function	line:54
 area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="175,131,129,218,104,319,164,341,179,534,311,516,292,331,337,298,263,141,231,124,176,130" href="https:\/\/item.jd.com\/15542120613.html" target="_blank">$/;"	function	line:55
@@ -294,17 +289,17 @@ area	/web/my/projectA/index2.html	/^            <area shape="poly" coords="301,8
 area	/web/my/projectA/index2.html	/^            <area shape="poly" coords="163,548,292,574,273,753,101,703,163,547" href="http:\/\/item.jd.com\/11975612987.html#crumb-wrap" target="_blank">$/;"	function	line:58
 area	/web/my/projectA/index2.html	/^            <area shape="poly" coords="576,174,681,198,664,480,610,477,599,439,549,413" href="https:\/\/item.jd.com\/15934082696.html" target="_blank">$/;"	function	line:59
 div	/web/my/projectA/index2.html	/^        <div class="style_header">$/;"	function	line:62
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_27.jpg" alt="">$/;"	function	line:63
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_27.jpg" alt="">$/;"	function	line:63
 div	/web/my/projectA/index2.html	/^        <div class="style_icon">$/;"	function	line:65
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691059" target="_blank"><img src="images\/p923_30.jpg" alt=""><\/a>$/;"	function	line:66
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691867" target="_blank"><img src="images\/p923_32.jpg" alt=""><\/a>$/;"	function	line:67
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689030" target="_blank"><img src="images\/p923_34.jpg" alt=""><\/a>$/;"	function	line:68
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691020" target="_blank"><img src="images\/p923_36.jpg" alt=""><\/a>$/;"	function	line:69
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=695953" target="_blank"><img src="images\/p923_38.jpg" alt=""><\/a>$/;"	function	line:70
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691059" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_30.jpg" alt=""><\/a>$/;"	function	line:66
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691867" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_32.jpg" alt=""><\/a>$/;"	function	line:67
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689030" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_34.jpg" alt=""><\/a>$/;"	function	line:68
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691020" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_36.jpg" alt=""><\/a>$/;"	function	line:69
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=695953" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_38.jpg" alt=""><\/a>$/;"	function	line:70
 div	/web/my/projectA/index2.html	/^    <div class="partarea part2" id="area2">$/;"	function	line:73
 div	/web/my/projectA/index2.html	/^        <div class="imgarea">$/;"	function	line:74
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_45.jpg" alt="">$/;"	function	line:75
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_46.jpg" alt="" usemap="#Map3">$/;"	function	line:76
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_45.jpg" alt="">$/;"	function	line:75
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_46.jpg" alt="" usemap="#Map3">$/;"	function	line:76
 map	/web/my/projectA/index2.html	/^            <map name="Map3">$/;"	function	line:77
 area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="641,122,599,326,641,336,643,377,765,376,768,327,806,327,761,124,731,109,673,104" href="http:\/\/item.jd.com\/15310747304.html" target="_blank">$/;"	function	line:78
 area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="990,333,1138,746" href="https:\/\/item.jd.com\/11687198269.html" target="_blank">$/;"	function	line:79
@@ -314,34 +309,34 @@ area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="621
 area	/web/my/projectA/index2.html	/^              <area shape="circle" coords="871,175,66" href="https:\/\/item.jd.com\/15434875083.html" target="_blank">$/;"	function	line:83
 area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="919,222,1107,272,1090,307,936,305,896,273,919,223" href="https:\/\/item.jd.com\/15712188959.html#crumb-wrap" target="_blank">$/;"	function	line:84
 div	/web/my/projectA/index2.html	/^        <div class="style_header">$/;"	function	line:87
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_47.jpg" alt="">$/;"	function	line:88
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_47.jpg" alt="">$/;"	function	line:88
 div	/web/my/projectA/index2.html	/^        <div class="style_icon">$/;"	function	line:90
-a	/web/my/projectA/index2.html	/^            <a href="" target="_blank"><img src="images\/p923_50.jpg" alt="https:\/\/ypzj.jd.com\/inventory.html?id=690486"><\/a>$/;"	function	line:91
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689338" target="_blank"><img src="images\/p923_52.jpg" alt=""><\/a>$/;"	function	line:92
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688962" target="_blank"><img src="images\/p923_54.jpg" alt=""><\/a>$/;"	function	line:93
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=690877" target="_blank"><img src="images\/p923_56.jpg" alt=""><\/a>$/;"	function	line:94
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694871" target="_blank"><img src="images\/p923_58.jpg" alt=""><\/a>$/;"	function	line:95
+a	/web/my/projectA/index2.html	/^            <a href="" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_50.jpg" alt="https:\/\/ypzj.jd.com\/inventory.html?id=690486"><\/a>$/;"	function	line:91
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689338" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_52.jpg" alt=""><\/a>$/;"	function	line:92
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688962" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_54.jpg" alt=""><\/a>$/;"	function	line:93
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=690877" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_56.jpg" alt=""><\/a>$/;"	function	line:94
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694871" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_58.jpg" alt=""><\/a>$/;"	function	line:95
 div	/web/my/projectA/index2.html	/^    <div class="partarea part3" id="area3">$/;"	function	line:98
 div	/web/my/projectA/index2.html	/^        <div class="imgarea">$/;"	function	line:99
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_65.jpg" alt="">$/;"	function	line:100
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_66.jpg" alt="" usemap="#Map4">$/;"	function	line:101
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_65.jpg" alt="">$/;"	function	line:100
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_66.jpg" alt="" usemap="#Map4">$/;"	function	line:101
 map	/web/my/projectA/index2.html	/^            <map name="Map4">$/;"	function	line:102
 area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="449,144,656,521" href="https:\/\/item.jd.com\/14712012024.html" target="_blank">$/;"	function	line:103
 area	/web/my/projectA/index2.html	/^              <area shape="circle" coords="307,215,116" href="http:\/\/item.jd.com\/14277538620.html" target="_blank">$/;"	function	line:104
 area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="145,353,304,803" href="https:\/\/item.jd.com\/15935743818.html" target="_blank">$/;"	function	line:105
 area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="381,545,613,748" href="https:\/\/item.jd.com\/15271165531.html" target="_blank">$/;"	function	line:106
 div	/web/my/projectA/index2.html	/^        <div class="style_header">$/;"	function	line:109
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_67.jpg" alt="">$/;"	function	line:110
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_67.jpg" alt="">$/;"	function	line:110
 div	/web/my/projectA/index2.html	/^        <div class="style_icon">$/;"	function	line:112
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694129" target="_blank"><img src="images\/p923_70.jpg" alt=""><\/a>$/;"	function	line:113
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689357" target="_blank"><img src="images\/p923_72.jpg" alt=""><\/a>$/;"	function	line:114
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=693203" target="_blank"><img src="images\/p923_74.jpg" alt=""><\/a>$/;"	function	line:115
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691115" target="_blank"><img src="images\/p923_76.jpg" alt=""><\/a>$/;"	function	line:116
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694114" target="_blank"><img src="images\/p923_78.jpg" alt=""><\/a>$/;"	function	line:117
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694129" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_70.jpg" alt=""><\/a>$/;"	function	line:113
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689357" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_72.jpg" alt=""><\/a>$/;"	function	line:114
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=693203" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_74.jpg" alt=""><\/a>$/;"	function	line:115
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691115" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_76.jpg" alt=""><\/a>$/;"	function	line:116
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694114" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_78.jpg" alt=""><\/a>$/;"	function	line:117
 div	/web/my/projectA/index2.html	/^    <div class="partarea part4" id="area4">$/;"	function	line:120
 div	/web/my/projectA/index2.html	/^        <div class="imgarea">$/;"	function	line:121
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_85.jpg" alt="">$/;"	function	line:122
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_86.jpg" alt="" usemap="#Map5">$/;"	function	line:123
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_85.jpg" alt="">$/;"	function	line:122
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_86.jpg" alt="" usemap="#Map5">$/;"	function	line:123
 map	/web/my/projectA/index2.html	/^            <map name="Map5">$/;"	function	line:124
 area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="974,171,1144,722" href="https:\/\/item.jd.com\/15935158965.html" target="_blank">$/;"	function	line:125
 area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="607,357,895,488" href="https:\/\/item.jd.com\/10277881602.html" target="_blank">$/;"	function	line:126
@@ -349,17 +344,17 @@ area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="701
 area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="761,693,829,638,878,537,966,524,964,678,858,710,763,693" href="https:\/\/item.jd.com\/16062517005.html" target="_blank">$/;"	function	line:128
 area	/web/my/projectA/index2.html	/^              <area shape="circle" coords="683,594,69" href="http:\/\/item.jd.com\/15505641782.html#crumb-wrap" target="_blank">$/;"	function	line:129
 div	/web/my/projectA/index2.html	/^        <div class="style_header">$/;"	function	line:132
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_87.jpg" alt="">$/;"	function	line:133
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_87.jpg" alt="">$/;"	function	line:133
 div	/web/my/projectA/index2.html	/^        <div class="style_icon">$/;"	function	line:135
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688486" target="_blank"><img src="images\/p923_90.jpg" alt=""><\/a>$/;"	function	line:136
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=692374" target="_blank"><img src="images\/p923_92.jpg" alt=""><\/a>$/;"	function	line:137
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694950" target="_blank"><img src="images\/p923_94.jpg" alt=""><\/a>$/;"	function	line:138
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=690941" target="_blank"><img src="images\/p923_96.jpg" alt=""><\/a>$/;"	function	line:139
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=554908" target="_blank"><img src="images\/p923_98.jpg" alt=""><\/a>$/;"	function	line:140
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688486" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_90.jpg" alt=""><\/a>$/;"	function	line:136
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=692374" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_92.jpg" alt=""><\/a>$/;"	function	line:137
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694950" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_94.jpg" alt=""><\/a>$/;"	function	line:138
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=690941" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_96.jpg" alt=""><\/a>$/;"	function	line:139
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=554908" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_98.jpg" alt=""><\/a>$/;"	function	line:140
 div	/web/my/projectA/index2.html	/^    <div class="partarea part5" id="area5">$/;"	function	line:143
 div	/web/my/projectA/index2.html	/^        <div class="imgarea">$/;"	function	line:144
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_105.jpg" alt="">$/;"	function	line:145
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_106.jpg" alt="" usemap="#Map6">$/;"	function	line:146
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_105.jpg" alt="">$/;"	function	line:145
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_106.jpg" alt="" usemap="#Map6">$/;"	function	line:146
 map	/web/my/projectA/index2.html	/^            <map name="Map6">$/;"	function	line:147
 area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="261,254,451,607" href="https:\/\/item.jd.com\/15938910187.html" target="_blank">$/;"	function	line:148
 area	/web/my/projectA/index2.html	/^              <area shape="rect" coords="484,455,655,749" href="http:\/\/item.jd.com\/10348720972.html" target="_blank">$/;"	function	line:149
@@ -369,16 +364,212 @@ area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="546
 area	/web/my/projectA/index2.html	/^              <area shape="poly" coords="119,746,237,710,205,473,54,487,119,745" href="https:\/\/item.jd.com\/12067941156.html" target="_blank">$/;"	function	line:153
 area	/web/my/projectA/index2.html	/^              <area shape="circle" coords="348,169,78" href="http:\/\/item.jd.com\/14277538620.html" target="_blank">$/;"	function	line:154
 div	/web/my/projectA/index2.html	/^        <div class="style_header">$/;"	function	line:157
-img	/web/my/projectA/index2.html	/^            <img src="images\/p923_107.jpg" alt="">$/;"	function	line:158
+img	/web/my/projectA/index2.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_107.jpg" alt="">$/;"	function	line:158
 div	/web/my/projectA/index2.html	/^        <div class="style_icon">$/;"	function	line:160
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688953" target="_blank"><img src="images\/p923_110.jpg" alt=""><\/a>$/;"	function	line:161
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689635" target="_blank"><img src="images\/p923_112.jpg" alt=""><\/a>$/;"	function	line:162
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=114479" target="_blank"><img src="images\/p923_114.jpg" alt=""><\/a>$/;"	function	line:163
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689326" target="_blank"><img src="images\/p923_116.jpg" alt=""><\/a>$/;"	function	line:164
-a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688820" target="_blank"><img src="images\/p923_118.jpg" alt=""><\/a>$/;"	function	line:165
-div	/web/my/projectA/index2.html	/^    <div class="code">$/;"	function	line:169
-img	/web/my/projectA/index2.html	/^      <img src="images\/p923_126.jpg" alt="">$/;"	function	line:170
-div	/web/my/projectA/index2.html	/^    <div class="fix_width">$/;"	function	line:173
-div	/web/my/projectA/index2.html	/^      <div class="top"><img src="images\/top.png" alt=""><\/div>$/;"	function	line:174
-script	/web/my/projectA/index2.html	/^    <script src="https:\/\/cdn.bootcss.com\/bxslider\/4.2.12\/jquery.bxslider.min.js"><\/script>$/;"	function	line:176
-script	/web/my/projectA/index2.html	/^    <script src='js\/index.js'><\/script>$/;"	function	line:177
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688953" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_110.jpg" alt=""><\/a>$/;"	function	line:161
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689635" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_112.jpg" alt=""><\/a>$/;"	function	line:162
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=114479" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_114.jpg" alt=""><\/a>$/;"	function	line:163
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689326" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_116.jpg" alt=""><\/a>$/;"	function	line:164
+a	/web/my/projectA/index2.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688820" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_118.jpg" alt=""><\/a>$/;"	function	line:165
+html	/web/my/projectA/index-app.css	/^html {$/;"	function	line:12
+article	/web/my/projectA/index-app.css	/^article,$/;"	function	line:25
+aside	/web/my/projectA/index-app.css	/^aside,$/;"	function	line:26
+footer	/web/my/projectA/index-app.css	/^footer,$/;"	function	line:27
+header	/web/my/projectA/index-app.css	/^header,$/;"	function	line:28
+nav	/web/my/projectA/index-app.css	/^nav,$/;"	function	line:29
+section	/web/my/projectA/index-app.css	/^section {$/;"	function	line:30
+h1	/web/my/projectA/index-app.css	/^h1 {$/;"	function	line:39
+figcaption	/web/my/projectA/index-app.css	/^figcaption,$/;"	function	line:52
+figure	/web/my/projectA/index-app.css	/^figure,$/;"	function	line:53
+main	/web/my/projectA/index-app.css	/^main { \/* 1 *\/$/;"	function	line:54
+figure	/web/my/projectA/index-app.css	/^figure {$/;"	function	line:62
+hr	/web/my/projectA/index-app.css	/^hr {$/;"	function	line:71
+pre	/web/my/projectA/index-app.css	/^pre {$/;"	function	line:82
+a	/web/my/projectA/index-app.css	/^a {$/;"	function	line:95
+abbr[title]	/web/my/projectA/index-app.css	/^abbr[title] {$/;"	function	line:105
+b	/web/my/projectA/index-app.css	/^b,$/;"	function	line:115
+strong	/web/my/projectA/index-app.css	/^strong {$/;"	function	line:116
+b	/web/my/projectA/index-app.css	/^b,$/;"	function	line:124
+strong	/web/my/projectA/index-app.css	/^strong {$/;"	function	line:125
+code	/web/my/projectA/index-app.css	/^code,$/;"	function	line:134
+kbd	/web/my/projectA/index-app.css	/^kbd,$/;"	function	line:135
+samp	/web/my/projectA/index-app.css	/^samp {$/;"	function	line:136
+dfn	/web/my/projectA/index-app.css	/^dfn {$/;"	function	line:145
+mark	/web/my/projectA/index-app.css	/^mark {$/;"	function	line:153
+small	/web/my/projectA/index-app.css	/^small {$/;"	function	line:162
+sub	/web/my/projectA/index-app.css	/^sub,$/;"	function	line:171
+sup	/web/my/projectA/index-app.css	/^sup {$/;"	function	line:172
+sub	/web/my/projectA/index-app.css	/^sub {$/;"	function	line:179
+sup	/web/my/projectA/index-app.css	/^sup {$/;"	function	line:183
+audio	/web/my/projectA/index-app.css	/^audio,$/;"	function	line:194
+video	/web/my/projectA/index-app.css	/^video {$/;"	function	line:195
+audio:not([controls])	/web/my/projectA/index-app.css	/^audio:not([controls]) {$/;"	function	line:203
+img	/web/my/projectA/index-app.css	/^img {$/;"	function	line:212
+svg:not(:root)	/web/my/projectA/index-app.css	/^svg:not(:root) {$/;"	function	line:220
+button	/web/my/projectA/index-app.css	/^button,$/;"	function	line:231
+input	/web/my/projectA/index-app.css	/^input,$/;"	function	line:232
+optgroup	/web/my/projectA/index-app.css	/^optgroup,$/;"	function	line:233
+select	/web/my/projectA/index-app.css	/^select,$/;"	function	line:234
+textarea	/web/my/projectA/index-app.css	/^textarea {$/;"	function	line:235
+button	/web/my/projectA/index-app.css	/^button,$/;"	function	line:244
+input	/web/my/projectA/index-app.css	/^input { \/* 1 *\/$/;"	function	line:245
+button	/web/my/projectA/index-app.css	/^button,$/;"	function	line:254
+select	/web/my/projectA/index-app.css	/^select { \/* 1 *\/$/;"	function	line:255
+button	/web/my/projectA/index-app.css	/^button,$/;"	function	line:265
+[type="reset"]	/web/my/projectA/index-app.css	/^[type="reset"],$/;"	function	line:267
+[type="submit"]	/web/my/projectA/index-app.css	/^[type="submit"] {$/;"	function	line:268
+button::-moz-focus-inner	/web/my/projectA/index-app.css	/^button::-moz-focus-inner,$/;"	function	line:276
+[type="button"]::-moz-focus-inner	/web/my/projectA/index-app.css	/^[type="button"]::-moz-focus-inner,$/;"	function	line:277
+[type="reset"]::-moz-focus-inner	/web/my/projectA/index-app.css	/^[type="reset"]::-moz-focus-inner,$/;"	function	line:278
+[type="submit"]::-moz-focus-inner	/web/my/projectA/index-app.css	/^[type="submit"]::-moz-focus-inner {$/;"	function	line:279
+button:-moz-focusring	/web/my/projectA/index-app.css	/^button:-moz-focusring,$/;"	function	line:288
+[type="button"]:-moz-focusring	/web/my/projectA/index-app.css	/^[type="button"]:-moz-focusring,$/;"	function	line:289
+[type="reset"]:-moz-focusring	/web/my/projectA/index-app.css	/^[type="reset"]:-moz-focusring,$/;"	function	line:290
+[type="submit"]:-moz-focusring	/web/my/projectA/index-app.css	/^[type="submit"]:-moz-focusring {$/;"	function	line:291
+legend	/web/my/projectA/index-app.css	/^legend {$/;"	function	line:302
+progress	/web/my/projectA/index-app.css	/^progress {$/;"	function	line:316
+textarea	/web/my/projectA/index-app.css	/^textarea {$/;"	function	line:325
+[type="checkbox"]	/web/my/projectA/index-app.css	/^[type="checkbox"],$/;"	function	line:334
+[type="radio"]	/web/my/projectA/index-app.css	/^[type="radio"] {$/;"	function	line:335
+[type="number"]::-webkit-inner-spin-button	/web/my/projectA/index-app.css	/^[type="number"]::-webkit-inner-spin-button,$/;"	function	line:344
+[type="number"]::-webkit-outer-spin-button	/web/my/projectA/index-app.css	/^[type="number"]::-webkit-outer-spin-button {$/;"	function	line:345
+[type="search"]	/web/my/projectA/index-app.css	/^[type="search"] {$/;"	function	line:354
+[type="search"]::-webkit-search-cancel-button	/web/my/projectA/index-app.css	/^[type="search"]::-webkit-search-cancel-button,$/;"	function	line:363
+[type="search"]::-webkit-search-decoration	/web/my/projectA/index-app.css	/^[type="search"]::-webkit-search-decoration {$/;"	function	line:364
+::-webkit-file-upload-button	/web/my/projectA/index-app.css	/^::-webkit-file-upload-button {$/;"	function	line:373
+menu	/web/my/projectA/index-app.css	/^menu {$/;"	function	line:387
+summary	/web/my/projectA/index-app.css	/^summary {$/;"	function	line:395
+canvas	/web/my/projectA/index-app.css	/^canvas {$/;"	function	line:406
+template	/web/my/projectA/index-app.css	/^template {$/;"	function	line:414
+[hidden]	/web/my/projectA/index-app.css	/^[hidden] {$/;"	function	line:425
+ul,li	/web/my/projectA/index-app.css	/^ul,li {$/;"	function	line:433
+.slider	/web/my/projectA/index-app.css	/^.slider {}$/;"	function	line:437
+body	/web/my/projectA/index-app.css	/^body {$/;"	function	line:438
+.prev, .next	/web/my/projectA/index-app.css	/^.prev, .next {$/;"	function	line:442
+.next	/web/my/projectA/index-app.css	/^.next {$/;"	function	line:450
+.prev	/web/my/projectA/index-app.css	/^.prev {$/;"	function	line:454
+.next svg, .prev svg	/web/my/projectA/index-app.css	/^.next svg, .prev svg {$/;"	function	line:458
+.wraparea	/web/my/projectA/index-app.css	/^.wraparea {$/;"	function	line:464
+.wraparea img	/web/my/projectA/index-app.css	/^.wraparea img {$/;"	function	line:469
+.partarea	/web/my/projectA/index-app.css	/^.partarea{$/;"	function	line:473
+.nav	/web/my/projectA/index-app.css	/^.nav {$/;"	function	line:477
+.nav ul	/web/my/projectA/index-app.css	/^.nav ul {$/;"	function	line:484
+.nav ul li	/web/my/projectA/index-app.css	/^.nav ul li {$/;"	function	line:489
+.nav ul li:nth-child(even)	/web/my/projectA/index-app.css	/^.nav ul li:nth-child(even){$/;"	function	line:503
+.nav ul li a	/web/my/projectA/index-app.css	/^.nav ul li a{$/;"	function	line:507
+.nav ul li a:hover	/web/my/projectA/index-app.css	/^.nav ul li a:hover{$/;"	function	line:512
+.nav ul li.active	/web/my/projectA/index-app.css	/^.nav ul li.active{$/;"	function	line:514
+.imgarea,.style_header	/web/my/projectA/index-app.css	/^.imgarea,.style_header{$/;"	function	line:520
+.imgarea img	/web/my/projectA/index-app.css	/^.imgarea img {$/;"	function	line:523
+.partarea	/web/my/projectA/index-app.css	/^.partarea {$/;"	function	line:526
+.partarea .showgroup	/web/my/projectA/index-app.css	/^.partarea .showgroup {$/;"	function	line:531
+.style_icon	/web/my/projectA/index-app.css	/^.style_icon {$/;"	function	line:534
+.style_icon img	/web/my/projectA/index-app.css	/^.style_icon img {$/;"	function	line:539
+.style_icon img:first-child	/web/my/projectA/index-app.css	/^.style_icon img:first-child{$/;"	function	line:545
+.part0 .style_icon	/web/my/projectA/index-app.css	/^.part0 .style_icon{$/;"	function	line:548
+.part1 .style_icon	/web/my/projectA/index-app.css	/^.part1 .style_icon{$/;"	function	line:551
+.part2 .style_icon	/web/my/projectA/index-app.css	/^.part2 .style_icon{$/;"	function	line:554
+.part3 .style_icon	/web/my/projectA/index-app.css	/^.part3 .style_icon{$/;"	function	line:557
+.part4 .style_icon	/web/my/projectA/index-app.css	/^.part4 .style_icon{$/;"	function	line:560
+.part5 .style_icon	/web/my/projectA/index-app.css	/^.part5 .style_icon{$/;"	function	line:563
+.part0	/web/my/projectA/index-app.css	/^.part0{$/;"	function	line:566
+.fix_width	/web/my/projectA/index-app.css	/^.fix_width {$/;"	function	line:572
+.fix_width .top	/web/my/projectA/index-app.css	/^.fix_width .top {$/;"	function	line:576
+.siders,.bx-wrapper	/web/my/projectA/index-app.css	/^.siders,.bx-wrapper {$/;"	function	line:584
+.siders li img	/web/my/projectA/index-app.css	/^.siders li img {$/;"	function	line:587
+.bx-wrapper	/web/my/projectA/index-app.css	/^.bx-wrapper {$/;"	function	line:592
+.bx-wrapper img	/web/my/projectA/index-app.css	/^.bx-wrapper img{$/;"	function	line:598
+.bxslider	/web/my/projectA/index-app.css	/^.bxslider{$/;"	function	line:601
+.bxslider li:hover	/web/my/projectA/index-app.css	/^.bxslider li:hover {$/;"	function	line:605
+.code	/web/my/projectA/index-app.css	/^.code {$/;"	function	line:609
+html	/web/my/projectA/index-app.html	/^<html lang="en">$/;"	function	line:2
+head	/web/my/projectA/index-app.html	/^<head>$/;"	function	line:3
+meta	/web/my/projectA/index-app.html	/^    <meta charset="UTF-8">$/;"	function	line:4
+meta	/web/my/projectA/index-app.html	/^    <meta http-equiv="X-UA-Compatible" content="ie=edge">$/;"	function	line:5
+title	/web/my/projectA/index-app.html	/^    <title>ELLE×京东时尚 | 秋冬新风潮<\/title>$/;"	function	line:6
+link	/web/my/projectA/index-app.html	/^    <link href="https:\/\/cdn.bootcss.com\/bxslider\/4.2.12\/jquery.bxslider.css" rel="stylesheet">$/;"	function	line:7
+link	/web/my/projectA/index-app.html	/^    <link href="index-app.css" rel="stylesheet" \/>$/;"	function	line:8
+script	/web/my/projectA/index-app.html	/^    <script src="https:\/\/cdn.bootcss.com\/jquery\/2.2.4\/jquery.min.js"><\/script>$/;"	function	line:11
+body	/web/my/projectA/index-app.html	/^<body>$/;"	function	line:13
+div	/web/my/projectA/index-app.html	/^    <div class="wraparea">$/;"	function	line:14
+img	/web/my/projectA/index-app.html	/^        <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_02.jpg" alt="">$/;"	function	line:15
+img	/web/my/projectA/index-app.html	/^        <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_04.jpg" alt="">$/;"	function	line:16
+img	/web/my/projectA/index-app.html	/^        <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_05.jpg" alt="">$/;"	function	line:17
+header	/web/my/projectA/index-app.html	/^    <header class="nav" id="nav">$/;"	function	line:20
+ul	/web/my/projectA/index-app.html	/^        <ul>$/;"	function	line:21
+li	/web/my/projectA/index-app.html	/^            <li>复古姥姥风<\/li>$/;"	function	line:22
+li	/web/my/projectA/index-app.html	/^            <li>多重混搭<\/li>$/;"	function	line:23
+li	/web/my/projectA/index-app.html	/^            <li>嘻哈热浪<\/li>$/;"	function	line:24
+li	/web/my/projectA/index-app.html	/^            <li>高街风尚<\/li>$/;"	function	line:25
+li	/web/my/projectA/index-app.html	/^            <li>少女朋克<\/li>$/;"	function	line:26
+li	/web/my/projectA/index-app.html	/^            <li>时髦办公室<\/li>$/;"	function	line:27
+div	/web/my/projectA/index-app.html	/^    <div class="partarea part0" id="area0">$/;"	function	line:30
+div	/web/my/projectA/index-app.html	/^        <div class="imgarea">$/;"	function	line:31
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_06.jpg" alt="">$/;"	function	line:32
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_07.jpg" alt="">$/;"	function	line:33
+div	/web/my/projectA/index-app.html	/^        <div class="style_icon">$/;"	function	line:35
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689284" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_10.jpg" alt=""><\/a>$/;"	function	line:36
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=690197" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_12.jpg" alt=""><\/a>$/;"	function	line:37
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691067" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_14.jpg" alt=""><\/a>$/;"	function	line:38
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691859" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_16.jpg" alt=""><\/a>$/;"	function	line:39
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=673531" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_18.jpg" alt=""><\/a>$/;"	function	line:40
+div	/web/my/projectA/index-app.html	/^    <div class="partarea part1" id="area1">$/;"	function	line:43
+div	/web/my/projectA/index-app.html	/^        <div class="imgarea">$/;"	function	line:44
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_25.jpg" alt="">$/;"	function	line:45
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_26.jpg" alt="" >$/;"	function	line:46
+div	/web/my/projectA/index-app.html	/^        <div class="style_header">$/;"	function	line:49
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_27.jpg" alt="">$/;"	function	line:50
+div	/web/my/projectA/index-app.html	/^        <div class="style_icon">$/;"	function	line:52
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691059" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_30.jpg" alt=""><\/a>$/;"	function	line:53
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691867" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_32.jpg" alt=""><\/a>$/;"	function	line:54
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689030" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_34.jpg" alt=""><\/a>$/;"	function	line:55
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691020" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_36.jpg" alt=""><\/a>$/;"	function	line:56
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=695953" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_38.jpg" alt=""><\/a>$/;"	function	line:57
+div	/web/my/projectA/index-app.html	/^    <div class="partarea part2" id="area2">$/;"	function	line:60
+div	/web/my/projectA/index-app.html	/^        <div class="imgarea">$/;"	function	line:61
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_45.jpg" alt="">$/;"	function	line:62
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_46.jpg" alt="" >$/;"	function	line:63
+div	/web/my/projectA/index-app.html	/^        <div class="style_header">$/;"	function	line:66
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_47.jpg" alt="">$/;"	function	line:67
+div	/web/my/projectA/index-app.html	/^        <div class="style_icon">$/;"	function	line:69
+a	/web/my/projectA/index-app.html	/^            <a href="" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_50.jpg" alt="https:\/\/ypzj.jd.com\/inventory.html?id=690486"><\/a>$/;"	function	line:70
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689338" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_52.jpg" alt=""><\/a>$/;"	function	line:71
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688962" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_54.jpg" alt=""><\/a>$/;"	function	line:72
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=690877" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_56.jpg" alt=""><\/a>$/;"	function	line:73
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694871" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_58.jpg" alt=""><\/a>$/;"	function	line:74
+div	/web/my/projectA/index-app.html	/^    <div class="partarea part3" id="area3">$/;"	function	line:77
+div	/web/my/projectA/index-app.html	/^        <div class="imgarea">$/;"	function	line:78
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_65.jpg" alt="">$/;"	function	line:79
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_66.jpg" alt="" >$/;"	function	line:80
+div	/web/my/projectA/index-app.html	/^        <div class="style_header">$/;"	function	line:83
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_67.jpg" alt="">$/;"	function	line:84
+div	/web/my/projectA/index-app.html	/^        <div class="style_icon">$/;"	function	line:86
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694129" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_70.jpg" alt=""><\/a>$/;"	function	line:87
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689357" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_72.jpg" alt=""><\/a>$/;"	function	line:88
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=693203" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_74.jpg" alt=""><\/a>$/;"	function	line:89
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=691115" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_76.jpg" alt=""><\/a>$/;"	function	line:90
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694114" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_78.jpg" alt=""><\/a>$/;"	function	line:91
+div	/web/my/projectA/index-app.html	/^    <div class="partarea part4" id="area4">$/;"	function	line:94
+div	/web/my/projectA/index-app.html	/^        <div class="imgarea">$/;"	function	line:95
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_85.jpg" alt="">$/;"	function	line:96
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_86.jpg" alt="" >$/;"	function	line:97
+div	/web/my/projectA/index-app.html	/^        <div class="style_header">$/;"	function	line:100
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_87.jpg" alt="">$/;"	function	line:101
+div	/web/my/projectA/index-app.html	/^        <div class="style_icon">$/;"	function	line:103
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688486" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_90.jpg" alt=""><\/a>$/;"	function	line:104
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=692374" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_92.jpg" alt=""><\/a>$/;"	function	line:105
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=694950" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_94.jpg" alt=""><\/a>$/;"	function	line:106
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=690941" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_96.jpg" alt=""><\/a>$/;"	function	line:107
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=554908" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_98.jpg" alt=""><\/a>$/;"	function	line:108
+div	/web/my/projectA/index-app.html	/^    <div class="partarea part5" id="area5">$/;"	function	line:111
+div	/web/my/projectA/index-app.html	/^        <div class="imgarea">$/;"	function	line:112
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_105.jpg" alt="">$/;"	function	line:113
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_106.jpg" alt="">$/;"	function	line:114
+div	/web/my/projectA/index-app.html	/^        <div class="style_header">$/;"	function	line:117
+img	/web/my/projectA/index-app.html	/^            <img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_107.jpg" alt="">$/;"	function	line:118
+div	/web/my/projectA/index-app.html	/^        <div class="style_icon">$/;"	function	line:120
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688953" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_110.jpg" alt=""><\/a>$/;"	function	line:121
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689635" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_112.jpg" alt=""><\/a>$/;"	function	line:122
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=114479" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_114.jpg" alt=""><\/a>$/;"	function	line:123
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=689326" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_116.jpg" alt=""><\/a>$/;"	function	line:124
+a	/web/my/projectA/index-app.html	/^            <a href="https:\/\/ypzj.jd.com\/inventory.html?id=688820" target="_blank"><img src="http:\/\/mini1.ellechina.com\/v14\/p923\/p923_118.jpg" alt=""><\/a>$/;"	function	line:125
