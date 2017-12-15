@@ -50,7 +50,7 @@ table {
 }
 
 .area {
-    width: 1575px;
+    width: 990px;
     margin: 0 auto;
     font-size: 0;
 }
@@ -71,13 +71,26 @@ table {
 .nav .navlist ul {
     margin: 0 auto;
 }
+.nav .navlist ul {
+    padding-top: 50px;
+}
 .nav .navlist ul li {
     display: inline-block;
-    width: 180px;
-    height: 180px;
-    border: 1px solid red;
+    width: 110px;
+    height: 110px;
+    margin-left: 30px;
 }
-
+.nav .navlist ul li:first-child{
+    margin-left: 0;
+}
+.nav .navlist ul li:hover{
+    transform: scale(1.5);
+    transition: all .3s ease;
+}
+.nav .navlist ul li img {
+    width: 100%;
+    height: 100%;
+}
 
 .slider,.focus {
     position: relative;
