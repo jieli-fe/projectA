@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>elle-暖心平安夜 时髦圣诞周</title>
     <link rel="stylesheet" href="index1214.css">
-    <link rel="stylesheet" href="swiper.min.css">
     <link href="https://cdn.bootcss.com/bxslider/4.2.12/jquery.bxslider.css" rel="stylesheet">
     <script src="http://cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://cdn.bootcss.com/bxslider/4.2.12/jquery.bxslider.js"></script>
@@ -13,8 +12,10 @@
 </head>
 <body>
 
-<div class="area">
+<div class="area banner animate" id="play">
     <img src="images/e_01.jpg" alt="" class="imgfull" id="focusimg">
+    <img src="images/e_01_bg.png" alt="" width="990" height="966" class="bg" style="top: 0">
+    <img src="images/e_01_text.png" alt="" width="990" height="757" class="text"  style="top: 580px">
 </div>
 <div class="area nav" id="nav">
     <img src="images/e_02.jpg" alt="" class="imgfull">
@@ -66,6 +67,7 @@
 
 <script>
     $(document).ready(function(){
+        $('#play').addClass('play')
         $('.bxslider').bxSlider({
             slideWidth: 280,
             minSlides: 4,
@@ -93,24 +95,6 @@
                 scrollTop: $('.navscrollarea').eq(index).offset().top
             }, 300);
         });
-
-        var imgurl = ['images/e_01.jpg','images/e_01-1.jpg'];
-        function  imgOnLoad(imgurl) {
-            var img = new Image();
-            img.src = imgurl;
-            img.onload = function(){
-                setTimeout(function(){
-
-                },2000)
-            }
-        }
-        imgOnLoad(imgurl[1])
-
-        function changeFocus(){
-            var focusimg = document.getElementById('focusimg');
-            focusimg.src=''
-        }
-
 
     });
 
