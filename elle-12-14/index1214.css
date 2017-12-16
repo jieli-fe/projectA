@@ -78,11 +78,11 @@ table {
 
 .play .bg{
     display: block;
-    animation: flash 6s ease infinite;
+    /*animation: flash 6s ease infinite;*/
 }
 .play .text{
     display: block;
-    animation: flash 6s ease infinite;
+    animation: flash 3s ease infinite;
 }
 
 .nav{
@@ -167,7 +167,7 @@ table {
         opacity: 1;
     }
     25%, 75% {
-        opacity: .7;
+        opacity: .8;
     }
 
 }
@@ -176,7 +176,7 @@ table {
         opacity: 1;
     }
     25%, 75% {
-        opacity: 0.7;
+        opacity: 0.8;
     }
 
 }
