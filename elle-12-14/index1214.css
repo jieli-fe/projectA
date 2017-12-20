@@ -113,7 +113,7 @@ table {
     margin-left: 0;
 }
 .nav .navlist ul li:hover{
-    transform: scale(1.5);
+    transform: scale(1.2);
     transition: all .3s ease;
 }
 .nav .navlist ul li img {
@@ -136,9 +136,9 @@ table {
     z-index: 2;
 }
 .sliderwrapper {
-    width: 1228px;
-    height: 417px;
-    margin: 100px auto 0;
+    width: 900px;
+    height: 260px;
+    margin: 0 auto 0;
     font-size: 16px;
 }
 
@@ -149,7 +149,6 @@ table {
     background: #eef0ef;
     text-align: center;
     color: #828282;
-    padding-bottom: 25px;
 }
 .bxslider div a {
     text-decoration: none;

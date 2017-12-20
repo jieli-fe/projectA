@@ -1,0 +1,181 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.wrap {
+    width: 100%;
+    background: url('http://img10.360buyimg.com/cms/jfs/t16213/110/567478338/589163/c1cd82ff/5a352cdcN6eac76b1.jpg') no-repeat top center;
+}
+.area {
+    width: 945px;
+    margin: 0 auto;
+    font-size: 0;
+}
+.area .imgfull {
+    width: 100%;
+}
+.banner {
+    position: relative;
+    height: 1110px;
+}
+.banner .bg{
+    position: absolute;
+    left: 0;
+}
+.banner .text{
+    position: absolute;
+    left: 0;
+}
+.animate .bg{
+    display: none;
+
+}
+.animate .text{
+    display: none;
+}
+
+.play .bg{
+    display: block;
+    /*animation: flash 6s ease infinite;*/
+}
+.play .text{
+    display: block;
+    animation: flash 3s ease infinite;
+}
+
+.nav{
+    position: relative;
+}
+
+.nav .navlist ul {
+    margin: 0 auto;
+    text-align: center;
+}
+.nav .navlist ul li {
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.nav .navlist ul li:first-child{
+    margin-left: 0;
+}
+.nav .navlist ul li:hover{
+    transform: scale(1.2);
+    transition: all .3s ease;
+}
+.nav .navlist ul li img {
+    width: 100%;
+    height: 100%;
+}
+
+.slider,.focus {
+    position: relative;
+    padding-top: 45px;
+}
+.imgpos{
+    position: absolute;
+    z-index: 1;
+}
+.cntpos{
+    position: absolute;
+    left: 0;
+    top:0;
+    width: 100%;
+    z-index: 2;
+}
+.sliderwrapper {
+    width: 900px;
+    height: 260px;
+    margin: 0 auto 0;
+    font-size: 16px;
+}
+
+.bx-wrapper {
+    margin: 0 auto;
+}
+.bxslider div{
+    background: #eef0ef;
+    text-align: center;
+    color: #828282;
+}
+.bxslider div a {
+    text-decoration: none;
+    color: #828282;
+}
+.bxslider div a:hover {
+    color: #000;
+}
+.bxslider div:hover {
+    transform: transilateY(-10px);
+}
+
+@-webkit-keyframes flash {
+    from, 50%, to {
+        opacity: 1;
+    }
+    25%, 75% {
+        opacity: .8;
+    }
+
+}
+@keyframes flash {
+    from, 50%, to {
+        opacity: 1;
+    }
+    25%, 75% {
+        opacity: 0.8;
+    }
+
+}
+
+.wrapbg {
+    background: url("http://img30.360buyimg.com/cms/jfs/t14176/161/2174183777/210197/e0fc4c2/5a352c9bN74c842ad.jpg") repeat-y top center;
+}
